@@ -25,6 +25,18 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.about-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: justify;
+  width: 80%;
+  margin: auto;
+  }
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
