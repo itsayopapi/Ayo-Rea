@@ -246,6 +246,42 @@
 
 })();
 
-/**
- * Registration and Sign up form page
- */
+// Modal open and close functionality
+var modal = document.getElementById("loginSignupModal");
+var btn = document.getElementById("getStartedBtn");
+var closeBtn = document.getElementById("closeModal");
+
+// When the "Get Started" button is clicked, open the modal
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the close button is clicked, close the modal
+closeBtn.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+// Password toggle functionality
+const pwShowHide = document.querySelectorAll(".eye-icon");
+
+pwShowHide.forEach(eyeIcon => {
+  eyeIcon.addEventListener("click", () => {
+    let pwFields = eyeIcon.parentElement.parentElement.querySelectorAll(".password");
+    pwFields.forEach(password => {
+      if (password.type === "password") {
+        password.type = "text";
+        eyeIcon.classList.replace("bx-hide", "bx-show");
+        return;
+      }
+      password.type = "password";
+      eyeIcon.classList.replace("bx-show", "bx-hide");
+    });
+  });
+});
