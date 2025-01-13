@@ -245,3 +245,7 @@
   });
 
 })();
+
+/**
+ * Registration and Sign up form page
+ */
