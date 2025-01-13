@@ -285,3 +285,20 @@ pwShowHide.forEach(eyeIcon => {
     });
   });
 });
+
+const getStartedBtns = document.querySelectorAll('.btn-get-started')
+const loginSignupModal = document.getElementById('loginSignupModal');
+
+getStartedBtn.addEventListener('click', (e) => {
+  e.preventDefault();
+  loginSignupModal.style.display = 'block';
+});
+
+
+getStartedBtns.forEach((btn) => {
+  btn.addEventListener('click', (e) => {
+    e.preventDefault();
+    loginSignupModal.style.display = 'block';
+  });
+});
+
