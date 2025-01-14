@@ -1482,116 +1482,66 @@ section {
   color: #364146;
 }
 
-/*--------------------------------------------------------------
-# log in form
---------------------------------------------------------------*/
+/* Modal Styles */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
 
-
-.login-container {
-  width: 300px;
-  margin: 50px auto;
+.modal-content {
+  background-color: #fff;
   padding: 20px;
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.login-header {
+  border-radius: 10px;
+  width: 90%;
+  max-width: 400px;
+  position: relative;
   text-align: center;
+}
+
+.modal-content h2 {
   margin-bottom: 20px;
 }
 
-.login-form {
-  margin-top: 20px;
+.modal-content form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }
 
-.login-form input[type="email"],
-.login-form input[type="password"] {
-  width: 100%;
-  height: 40px;
-  margin-bottom: 20px;
+.modal-content input {
   padding: 10px;
+  font-size: 16px;
   border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
-.login-form input[type="submit"] {
-  width: 100%;
-  height: 40px;
-  background-color: #4CAF50;
+.modal-content button {
+  background-color: #007bff;
   color: #fff;
   padding: 10px;
+  font-size: 16px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
-.login-form input[type="submit"]:hover {
-  background-color: #3e8e41;
+.modal-content button:hover {
+  background-color: #0056b3;
 }
 
-.forgot-password {
-  text-align: right;
-  margin-top: 10px;
-}
-
-.forgot-password a {
-  color: #4CAF50;
-}
-
-
-/*--------------------------------------------------------------
-# sign up form
---------------------------------------------------------------*/
-
-
-.signup-container {
-  width: 400px;
-  margin: 50px auto;
-  padding: 20px;
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.signup-header {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.signup-form {
-  margin-top: 20px;
-}
-
-.signup-form input[type="text"],
-.signup-form input[type="email"],
-.signup-form input[type="password"] {
-  width: 100%;
-  height: 40px;
-  margin-bottom: 20px;
-  padding: 10px;
-  border: 1px solid #ccc;
-}
-
-.signup-form input[type="submit"] {
-  width: 100%;
-  height: 40px;
-  background-color: #4CAF50;
-  color: #fff;
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 18px;
   cursor: pointer;
 }
 
-.signup-form input[type="submit"]:hover {
-  background-color: #3e8e41;
-}
-
-.already-have-account {
-  text-align: center;
-  margin-top: 20px;
-}
-
-.already-have-account a {
-  color: #4CAF50;
-}
