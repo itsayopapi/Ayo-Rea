@@ -48,7 +48,7 @@
                             VPS Features
                         </h2>
                         <p data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                            Own your virtual presence with the power of Hostie
+                            Own your virtual presence with the power of WeFitHost
                             with 1.5 million websites already under our care,
                         </p>
                     </div>
@@ -966,7 +966,7 @@
                 </div>
             </div>
             <div class="view-plan-btn">
-                <a href="pricing.php" class="btn long-btn">view all plan</a>
+                <a href="https://My.wefithost.com/order-vps" class="btn long-btn">view all plan</a>
             </div>
         </div>
     </div>
