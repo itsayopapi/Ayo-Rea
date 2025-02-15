@@ -155,7 +155,7 @@
                                 <ul class="hostie-submenu list-unstyled menu-pages">
                                     <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
                                     <li class="nav-item"><a class="nav-link" href="data-center.php">Data Centers</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="game-details.php">Game Details</a></li>
+                                   <!-- <li class="nav-item"><a class="nav-link" href="game-details.php">Game Details</a></li> -->
                                 </ul>
                             </li>
                             <li class="menu-item hostie-has-dropdown">

@@ -17,7 +17,7 @@
     <meta name="twitter:description" content="Your Ultimate Solution for Web & Cloud Hosting">
     <meta name="twitter:image" content="https://html.themewant.com/hostie/landing/assets/images/banner/slider-img-01.webp">
     <!-- favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/wefithost.png">
 
     <title>WeFitHost- Premium Web Hosting</title>
     <!-- Preconnect to Google Fonts and Google Fonts Static -->

@@ -17,7 +17,7 @@
                         <h1>Find Your Perfect Domain Name
                         </h1>
                         <p class="description">Web Hosting, Domain Name and Hosting Center Solutions</p>
-                        <form action="https://Wefithost-whmcs.themewant.com/cart.php">
+                        <form action="https://My.wefithost.com/domain-search?domain=my ">
                             <div class="rts-hero__form-area">
                                 <input type="hidden" name="domain" value="register">
                                 <input type="hidden" name="a" value="add">
@@ -890,7 +890,7 @@
                     </div>
                 </div>
                 <div class="section-bottom-area" data-sal="slide-down" data-sal-delay="1000" data-sal-duration="800">
-                    <h4 class="bottom-title">Looking for a more hosting services? <a href="#">Click now</a></h4>
+                    <h4 class="bottom-title">Looking for a more hosting services? <a href="https://my.wefithost.com/order-hosting">Click now</a></h4>
                 </div>
             </div>
         </div>
