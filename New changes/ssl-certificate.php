@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
- <!-- head area start -->
-    <?php include 'layout/partials/head.php'?>
- <!-- head area end -->
+<!-- head area start -->
+<?php include 'layout/partials/head.php' ?>
+<!-- head area end -->
 
 <body class="page-template">
 
     <!-- HEADER AREA START-->
-        <?php include 'layout/header/header.php';?>
+    <?php include 'layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
@@ -22,7 +22,7 @@
                         </h1>
                         <p class="slogan" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Protect your website, build brand trust, and improve your search engine rankings with our free SSL Certificates.</p>
                         <div class="hosting-action">
-                            <a href="shared-hosting.php" class="btn__two secondary__bg secondary__color">Start Now <i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="https://My.wefithost.com/order-ssl" class="btn__two secondary__bg secondary__color">Start Now <i class="fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="rts-hosting-banner__image business-mail__image">
@@ -117,7 +117,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-xmark"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -212,7 +212,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-xmark"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -308,7 +308,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -404,7 +404,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -505,7 +505,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-xmark"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -600,7 +600,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-xmark"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -696,7 +696,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -791,7 +791,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -1126,26 +1126,27 @@
     <!-- HOSTIE CTA END -->
 
 
-   <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-one.php';?>
+    <!-- FOOTER AREA START-->
+    <?php include 'layout/footer/footer-one.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-        <?php include 'layout/partials/sidebar.php';?>
+    <?php include 'layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-        <?php include 'layout/partials/preloader.php';?>
+    <?php include 'layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-        <?php include 'layout/partials/back-to-top.php';?>
+    <?php include 'layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-        <?php include 'layout/partials/scripts.php';?>
+    <?php include 'layout/partials/scripts.php'; ?>
 
 </body>
+
 </html>

@@ -155,7 +155,7 @@
                                 <ul class="hostie-submenu list-unstyled menu-pages">
                                     <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
                                     <li class="nav-item"><a class="nav-link" href="data-center.php">Data Centers</a></li>
-                                   <!-- <li class="nav-item"><a class="nav-link" href="game-details.php">Game Details</a></li> -->
+                                    <!-- <li class="nav-item"><a class="nav-link" href="game-details.php">Game Details</a></li> -->
                                 </ul>
                             </li>
                             <li class="menu-item hostie-has-dropdown">
@@ -173,7 +173,7 @@
                 </nav>
                 <!-- FOR HEADER RIGHT -->
                 <div class="rts-header__right">
-                    <a href="sign-up.php" class="login__btn">Sign Up</a>
+                    <a href="https://My.wefithost.com/manage" class="login__btn">Sign Up</a>
                     <button id="menu-btn" class="mobile__active menu-btn"><i class="fa-sharp fa-solid fa-bars"></i></button>
                 </div>
             </div>
