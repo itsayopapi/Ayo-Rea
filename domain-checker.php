@@ -21,7 +21,7 @@
                         </h1>
                         <p class="description" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Web
                             Hosting, Domain Name and Hosting Center Solutions</p>
-                        <form action="https://My.wefithost.com/domain-search?domain=my" data-sal-delay="300" data-sal-duration="800">
+                        <form action="https://my.wefithost.com/domain-search" data-sal-delay="300" data-sal-duration="800">
                             <div class="rts-hero__form-area">
                                 <input type="hidden" name="domain" value="register">
                                 <input type="hidden" name="a" value="add">

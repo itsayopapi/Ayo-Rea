@@ -7,7 +7,7 @@
                 <li class="has-droupdown">
                     <a href="#" class="main">Home</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="index.php">Home One</a></li>
+                        <!--<li><a class="mobile-menu-link" href="index.php">Home One</a></li>
                         <li><a class="mobile-menu-link" href="index-two.php">Home Two
                             </a></li>
                         <li><a class="mobile-menu-link" href="index-three.php">Home Three</a></li>
@@ -20,19 +20,18 @@
                         <li><a class="mobile-menu-link" href="index-ten.php">Mern Hosting</a></li>
                         <li><a class="mobile-menu-link" href="index-eleven.php">Premium Hosting</a></li>
                     </ul>
-                </li>
+                </li> -->
+
                 <li class="has-droupdown">
-                    <a href="#" class="main">Pages</a>
+                    <a href="#" class="main">Overview</a>
                     <ul class="submenu mm-collapse">
                         <li><a class="mobile-menu-link" href="about.php">About</a></li>
                         <li><a class="mobile-menu-link" href="team.php">Affiliate</a></li>
                         <li><a class="mobile-menu-link" href="faq.php">Pricing</a></li>
-                        <li><a class="mobile-menu-link" href="book-a-demo.php">Sign Up</a></li>
+                        <li><a class="mobile-menu-link" href="">Sign Up</a></li>
                         <li><a class="mobile-menu-link" href="free-audit.php">Whois</a></li>
                         <li><a class="mobile-menu-link" href="pricing.php">Partner</a></li>
                         <li><a class="mobile-menu-link" href="blog.php">Blog</a></li>
-                        <li><a class="mobile-menu-link" href="blog-list.php">Blog List</a></li>
-                        <li><a class="mobile-menu-link" href="blog-grid-2.php">Blog Grid</a></li>
                         <li><a class="mobile-menu-link" href="support.php">Support</a></li>
                         <li><a class="mobile-menu-link" href="pricing.php">Pricing</a></li>
                         <li><a class="mobile-menu-link" href="pricing-two.php">Pricing Package</a></li>
@@ -47,7 +46,6 @@
                         <li><a class="mobile-menu-link" href="technology.php">Technology</a></li>
                         <li><a class="mobile-menu-link" href="contact.php">Contact</a></li>
                         <li><a class="mobile-menu-link" href="domain-transfer.php">Domain Transfer</a></li>
-                        <li><a class="mobile-menu-link" href="payment-method.php">Payment Method</a></li>
                     </ul>
                 </li>
                 <li class="has-droupdown">
