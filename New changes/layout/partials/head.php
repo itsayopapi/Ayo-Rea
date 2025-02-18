@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="description" content="Your Ultimate Solution for Web & Cloud Hosting">
     <meta name="keywords" content="Hosting, Domain, Transfer, Buy Domain, ">
     <link rel="canonical" href="https://html.themewant.com/hostie">

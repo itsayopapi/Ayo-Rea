@@ -14,7 +14,7 @@
                     <div class="hostie-menu">
                         <ul class="list-unstyled hostie-desktop-menu">
                             <li class="menu-item hostie-has-dropdown">
-                                <a href="index.php" class="hostie-dropdown-main-element">Home</a>
+                                <a href="home.php" class="hostie-dropdown-main-element">Home</a>
 
 
                             <li class="menu-item hostie-has-dropdown mega-menu">
