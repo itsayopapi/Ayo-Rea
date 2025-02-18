@@ -173,7 +173,8 @@
                 </nav>
                 <!-- FOR HEADER RIGHT -->
                 <div class="rts-header__right">
-                    <a href="sign-up.php" class="login__btn">Sign Up</a>
+                    <a href="https://my.wefithost.com/manage" class="login__btn">Login</a>
+                    <a href="sign-up.php" class="getstarted__btn">Get Started</a>
                     <button id="menu-btn" class="mobile__active menu-btn"><i class="fa-sharp fa-solid fa-bars"></i></button>
                 </div>
             </div>

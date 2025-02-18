@@ -148,6 +148,7 @@ body {
   overflow-x: hidden;
 }
 
+
 h1,
 h2,
 h3,
@@ -188,6 +189,18 @@ h6,
   word-break: break-word;
   font-family: var(--font-primary);
 }
+
+.rts-header__logo img {
+  width: 100px; 
+  height: auto;
+}
+
+.rts-header__menu {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
 
 h1,
 .h1 {
@@ -14997,27 +15010,41 @@ xclip
   .rts-header__right {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 5px;
   }
 }
-.rts-header__right .login__btn {
+.rts-header__right .getstarted__btn  {
   border: 1px solid var(--body-bg);
-  padding: 11px 38px;
+  padding: 10px;
   border-radius: 50px;
   color: var(--body-bg);
   transition: var(--transition);
 }
+
+.login__btn{
+
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.login__btn:hover{
+  background-color:  #D3D3D3 ;
+  color:var(--bg-gray-2);
+  padding: 10px;
+}
+
+
 @media (max-width: 576px) {
-  .rts-header__right .login__btn {
+  .rts-header__right .getstarted__btn {
     padding: 10px 30px;
   }
 }
 @media (max-width: 450px) {
-  .rts-header__right .login__btn {
+  .rts-header__right .getstarted__btn {
     display: none;
   }
 }
-.rts-header__right .login__btn:hover {
+.rts-header__right .getstarted__btn:hover .getstarted_btn {
   background: var(--color-third);
   color: var(--color-secondary);
   border: 1px solid var(--color-third);
@@ -15050,19 +15077,19 @@ xclip
   align-items: center;
   gap: 30px;
 }
-.rts-header.style-three .rts-header__wrapper .rts-header__right .button-area .login__btn {
+.rts-header.style-three .rts-header__wrapper .rts-header__right .button-area .getstarted__btn {
   border: none;
   padding: 0;
 }
 @media (max-width: 576px) {
-  .rts-header.style-three .rts-header__wrapper .rts-header__right .button-area .login__btn {
+  .rts-header.style-three .rts-header__wrapper .rts-header__right .button-area .getstarted__btn {
     display: none;
   }
 }
-.rts-header.style-three .rts-header__wrapper .rts-header__right .button-area .login__btn i {
+.rts-header.style-three .rts-header__wrapper .rts-header__right .button-area .getstarted__btn i {
   margin-right: 5px;
 }
-.rts-header.style-three .rts-header__wrapper .rts-header__right .button-area .login__btn:hover {
+.rts-header.style-three .rts-header__wrapper .rts-header__right .button-area .getstarted__btn:hover {
   color: var(--color-white);
 }
 .rts-header.style-three .rts-header__wrapper .rts-header__right .button-area .get-started__btn {
@@ -15119,13 +15146,13 @@ xclip
 .rts-header.style-five .rts-header__wrapper .rts-header__menu .hostie-menu .hostie-desktop-menu .menu-item .hostie-dropdown-main-element:after {
   background: var(--btc);
 }
-.rts-header.style-five .rts-header__wrapper .rts-header__right .login__btn {
+.rts-header.style-five .rts-header__wrapper .rts-header__right .getstarted__btn {
   background: var(--color-primary);
   border-radius: 4px;
   border: 1px solid var(--color-primary);
   transition: var(--transition);
 }
-.rts-header.style-five .rts-header__wrapper .rts-header__right .login__btn:hover {
+.rts-header.style-five .rts-header__wrapper .rts-header__right .getstarted__btn:hover {
   background: var(--color-third);
   color: var(--color-secondary);
   border-color: var(--color-third);
@@ -15149,20 +15176,20 @@ xclip
     gap: 15px;
   }
 }
-.rts-header.style-six .rts-header__wrapper .rts-header__right .button-area .login__btn {
+.rts-header.style-six .rts-header__wrapper .rts-header__right .button-area .getstarted__btn {
   border: none;
   padding: 0;
 }
-.rts-header.style-six .rts-header__wrapper .rts-header__right .button-area .login__btn:hover {
+.rts-header.style-six .rts-header__wrapper .rts-header__right .button-area .getstarted__btn:hover {
   color: var(--color-white) !important;
   background: transparent;
 }
 @media (max-width: 576px) {
-  .rts-header.style-six .rts-header__wrapper .rts-header__right .button-area .login__btn {
+  .rts-header.style-six .rts-header__wrapper .rts-header__right .button-area .getstarted__btn {
     display: none;
   }
 }
-.rts-header.style-six .rts-header__wrapper .rts-header__right .button-area .login__btn i {
+.rts-header.style-six .rts-header__wrapper .rts-header__right .button-area .getstarted__btn i {
   margin-right: 5px;
 }
 .rts-header.style-six .rts-header__wrapper .rts-header__right .button-area .get-started__btn {
@@ -15205,18 +15232,18 @@ xclip
 }
 .rts-header.header-sticky .hostie-menu .hostie-desktop-menu .menu-item .hostie-dropdown-main-element {
   color: var(--btc);
-  padding: 28px 0;
+  padding: 30px 0;
 }
 .rts-header.header-sticky .hostie-menu .hostie-desktop-menu .menu-item .hostie-dropdown-main-element::after {
   bottom: 28px;
   background: var(--btc);
 }
-.rts-header.header-sticky .rts-header__right .login__btn {
+.rts-header.header-sticky .rts-header__right .getstarted__btn {
   border: 1px solid var(--btc);
   color: var(--btc);
 }
-.rts-header.header-sticky .rts-header__right .login__btn:hover {
-  background: var(--color-third);
+.rts-header.header-sticky .rts-header__right .getstarted__btn:hover {
+  background: var(--color-third)
   color: var(--color-secondary) !important;
   border: 1px solid var(--color-third);
 }
@@ -15229,7 +15256,7 @@ xclip
   color: var(--color-secondary);
   border: 1px solid var(--color-third);
 }
-.rts-header.header-sticky.style-five .rts-header__wrapper .rts-header__right .login__btn {
+.rts-header.header-sticky.style-five .rts-header__wrapper .rts-header__right .getstarted__btn {
   color: var(--color-white);
 }
 .rts-header.header-sticky.style-six {
@@ -15244,7 +15271,7 @@ xclip
   bottom: 28px;
   background: var(--color-white);
 }
-.rts-header.header-sticky.style-six .rts-header__right .login__btn {
+.rts-header.header-sticky.style-six .rts-header__right .getstarted__btn {
   color: var(--color-white);
 }
 .rts-header.header-sticky.style-six.header-sticky .rts-header__right .mobile__active {
@@ -15391,20 +15418,20 @@ xclip
   padding-left: 35px;
 }
 .hostie-menu .hostie-desktop-menu .hostie-submenu .nav-item:hover a.nav-link::after {
-  width: 12px;
+  width: 8px;
 }
 .hostie-menu .hostie-desktop-menu .hostie-submenu .nav-item a.nav-link {
   display: block;
   text-transform: capitalize;
   color: var(--btc);
   text-decoration: none;
-  padding: 10px 20px;
-  padding-right: 15px;
+  padding: 10px 10px;
+  padding-right: 10px;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   position: relative;
   font-weight: 400;
-  font-size: 15px;
+  font-size: var(--size-small)
 }
 .hostie-menu .hostie-desktop-menu .hostie-submenu .nav-item a.nav-link::after {
   content: "";
@@ -15993,7 +16020,7 @@ xclip
   position: absolute;
   content: "\f054";
   font-family: "Font Awesome 6 pro" !important;
-  font-size: 16px;
+  font-size: var(--size-small);
   right: 0;
   font-weight: 400;
   top: 5px;
@@ -19308,11 +19335,11 @@ header.heder-two .sub-dropdown .submenu.third-lvl.base {
 .template-game .rts-header.header-sticky .hostie-menu .hostie-desktop-menu .menu-item .hostie-dropdown-main-element {
   color: var(--color-white);
 }
-.template-game .rts-header.header-sticky .rts-header__right .login__btn {
+.template-game .rts-header.header-sticky .rts-header__right .getstarted__btn {
   color: var(--color-white);
   border-color: var(--color-white);
 }
-.template-game .rts-header.header-sticky .rts-header__right .login__btn:hover {
+.template-game .rts-header.header-sticky .rts-header__right .getstarted__btn:hover {
   border-color: var(--color-third);
 }
 
@@ -28031,13 +28058,13 @@ header.heder-two .sub-dropdown .submenu.third-lvl.base {
 .header__style__eleven .hostie-menu .hostie-desktop-menu .hostie-has-dropdown:hover .hostie-dropdown-main-element {
   color: var(--color-11-text);
 }
-.header__style__eleven .rts-header__right .login__btn {
+.header__style__eleven .rts-header__right .getstarted__btn {
   color: var(--color-11-text);
   border: none;
   padding: 0;
   background: none;
 }
-.header__style__eleven .rts-header__right .login__btn:hover {
+.header__style__eleven .rts-header__right .getstarted__btn:hover {
   background: none;
 }
 .header__style__eleven .get-started__btn {
@@ -28052,7 +28079,7 @@ header.heder-two .sub-dropdown .submenu.third-lvl.base {
   color: var(--color-white);
   border-color: var(--color-11);
 }
-.header__style__eleven.header-sticky .rts-header__right .login__btn {
+.header__style__eleven.header-sticky .rts-header__right .getstarted__btn {
   border: none;
 }
 .header__style__eleven .rts-header__right .mobile__active {
