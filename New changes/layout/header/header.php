@@ -51,8 +51,18 @@
                                                             </div>
                                                         </a>
                                                     </li>
+                                                    <li>
+                                                        <a href="pricing.php">
+                                                            <img src="assets/images/mega-menu/03.svg" alt="icon">
+                                                            <div class="info">
+                                                                <p>Pricing</p>
+                                                                <span>Pricing Plans</span>
+                                                            </div>
+                                                        </a>
+                                                    </li>
                                                 </ul>
                                             </div>
+
                                             <div class="col-lg-6">
                                                 <ul class="mega-menu-item">
                                                     <li>
@@ -82,35 +92,20 @@
                                                             </div>
                                                         </a>
                                                     </li>
-                                                </ul>
-                                            </div>
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
 
-                            <li class="menu-item hostie-has-dropdown mega-menu">
-                                <a href="#" class="hostie-dropdown-main-element">Security</a>
-                                <div class="rts-mega-menu">
-                                    <div class="wrapper">
-                                        <div class="row g-0">
-                                            <div class="col-lg-6">
-                                                <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="ssl-certificate.php">a
+                                                        <a href="ssl-certificate.php">
                                                             <img src="assets/images/mega-menu/14.svg" alt="icon">
                                                             <div class="info">
-                                                                <p>SSL Certificate</p>
-                                                                <span>Our Security</span>
+                                                                <p>SSL Certificates</p>
+                                                                <span>Our security</span>
                                                             </div>
                                                         </a>
                                                     </li>
 
-
                                                 </ul>
                                             </div>
-
 
                                         </div>
                                     </div>
@@ -118,27 +113,33 @@
                             </li>
 
                             <li class="menu-item hostie-has-dropdown mega-menu">
-                                <a href="#" class="hostie-dropdown-main-element">Pricing</a>
+                                <a href="#" class="hostie-dropdown-main-element">Email</a>
                                 <div class="rts-mega-menu">
                                     <div class="wrapper">
                                         <div class="row g-0">
-                                            <div class="col-lg-6">
+                                            <div class="">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="pricing.php">a
-                                                            <img src="assets/images/mega-menu/03.svg" alt="icon">
+                                                        <a href="business-mail.php">
+                                                            <img src="assets/images/mega-menu/10.svg" alt="icon">
                                                             <div class="info">
-                                                                <p>Pricing</p>
-                                                                <span>Pricing Plans</span>
+                                                                <p>Business Mail</p>
+                                                                <span>reliable, simple email @ your domain</span>
                                                             </div>
                                                         </a>
                                                     </li>
+
+
                                                 </ul>
                                             </div>
+
+
                                         </div>
                                     </div>
                                 </div>
                             </li>
+
+
 
 
                             <li class="menu-item hostie-has-dropdown">

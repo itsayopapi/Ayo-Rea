@@ -4,52 +4,11 @@
     <div class="mobile-menu-main">
         <nav class="nav-main mainmenu-nav mt--30">
             <ul class="mainmenu metismenu" id="mobile-menu-active">
-                <li class="has-droupdown">
+                <li class="mobile-menu-link">
                     <a href="#" class="main">Home</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="index.php">Home One</a></li>
-                        <li><a class="mobile-menu-link" href="index-two.php">Home Two
-                            </a></li>
-                        <li><a class="mobile-menu-link" href="index-three.php">Home Three</a></li>
-                        <li><a class="mobile-menu-link" href="index-four.php">Home Four</a></li>
-                        <li><a class="mobile-menu-link" href="index-five.php">Home Five</a></li>
-                        <li><a class="mobile-menu-link" href="index-six.php">Home Six</a></li>
-                        <li><a class="mobile-menu-link" href="index-sevent.php">Game Hosting</a></li>
-                        <li><a class="mobile-menu-link" href="index-eight.php">Cloud Hosting</a></li>
-                        <li><a class="mobile-menu-link" href="index-nine.php">WP Hosting</a></li>
-                        <li><a class="mobile-menu-link" href="index-ten.php">Mern Hosting</a></li>
-                        <li><a class="mobile-menu-link" href="index-eleven.php">Premium Hosting</a></li>
-                    </ul>
+
                 </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main">Pages</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="about.php">About</a></li>
-                        <li><a class="mobile-menu-link" href="team.php">Affiliate</a></li>
-                        <li><a class="mobile-menu-link" href="faq.php">Pricing</a></li>
-                        <li><a class="mobile-menu-link" href="book-a-demo.php">Sign Up</a></li>
-                        <li><a class="mobile-menu-link" href="free-audit.php">Whois</a></li>
-                        <li><a class="mobile-menu-link" href="pricing.php">Partner</a></li>
-                        <li><a class="mobile-menu-link" href="blog.php">Blog</a></li>
-                        <li><a class="mobile-menu-link" href="blog-list.php">Blog List</a></li>
-                        <li><a class="mobile-menu-link" href="blog-grid-2.php">Blog Grid</a></li>
-                        <li><a class="mobile-menu-link" href="support.php">Support</a></li>
-                        <li><a class="mobile-menu-link" href="pricing.php">Pricing</a></li>
-                        <li><a class="mobile-menu-link" href="pricing-two.php">Pricing Package</a></li>
-                        <li><a class="mobile-menu-link" href="pricing-three.php">Pricing Comparison</a></li>
-                        <li><a class="mobile-menu-link" href="signin.php">Sign In</a></li>
-                        <li><a class="mobile-menu-link" href="business-mail.php">Business Mail</a></li>
-                        <li><a class="mobile-menu-link" href="knowledgebase.php">Knowledgebase</a></li>
-                        <li><a class="mobile-menu-link" href="blog-details.php">Blog Details</a></li>
-                        <li><a class="mobile-menu-link" href="domain-checker.php">Domain Checker</a></li>
-                        <li><a class="mobile-menu-link" href="ssl-certificate.php">SSL Certificates</a></li>
-                        <li><a class="mobile-menu-link" href="data-center.php">Data Centers</a></li>
-                        <li><a class="mobile-menu-link" href="technology.php">Technology</a></li>
-                        <li><a class="mobile-menu-link" href="contact.php">Contact</a></li>
-                        <li><a class="mobile-menu-link" href="domain-transfer.php">Domain Transfer</a></li>
-                        <li><a class="mobile-menu-link" href="payment-method.php">Payment Method</a></li>
-                    </ul>
-                </li>
+
                 <li class="has-droupdown">
                     <a href="#" class="main">Hosting</a>
                     <ul class="submenu mm-collapse">
@@ -59,8 +18,19 @@
                         <li><a class="mobile-menu-link" href="reseller-hosting.php">Reseller Hosting</a></li>
                         <li><a class="mobile-menu-link" href="dedicated-hosting.php">Dedicated Hosting</a></li>
                         <li><a class="mobile-menu-link" href="cloud-hosting.php">Cloud Hosting</a></li>
+                        <li><a class="mobile-menu-link" href="pricing.php">Pricing</a></li>
+                        <li><a class="mobile-menu-link" href="ssl-certificate.php">SSL Certificates</a></li>
                     </ul>
                 </li>
+
+                <li class="has-droupdown">
+                    <a href="#" class="main">Email</a>
+                    <ul class="submenu mm-collapse">
+                        <li><a class="mobile-menu-link" href="domain-checker.php">Business Email</a></li>
+
+                    </ul>
+                </li>
+
                 <li class="has-droupdown">
                     <a href="#" class="main">Domain</a>
                     <ul class="submenu mm-collapse">
