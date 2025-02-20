@@ -10,8 +10,8 @@
             <div class="logo-area">
                 <a href="index.php"><img src="assets/images/logo/logo-4.svg" alt=""></a>
             </div>
-            <form action="#">
-                <h2 class="form-title">Sign up</h2>
+            <form action="https://My.wefithost.com/manage" class="login__btn">Get Started</a>">
+                <h2 class="form-title">Get Started</h2>
                 <div class="form-inner">
                     <div class="single-wrapper">
                         <input type="text" placeholder="Full name" required>
@@ -35,7 +35,7 @@
                         <button type="submit" class="primary__btn">Create an account</button>
                     </div>
                 </div>
-                <p class="sign-in-option">You already have an account? <a href="sign-in.php">Sign in</a></p>
+                <p class="sign-in-option">You already have an account? <a href="https://My.wefithost.com/manage" class="login__btn">Get Started</a></p>
             </form>
         </div>
         <div class="copyright-area">

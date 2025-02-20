@@ -11,7 +11,7 @@
                 <a href="index.php"><img src="assets/images/logo/logo-4.svg" alt=""></a>
             </div>
             <form action="#">
-                <h2 class="form-title">Sign In</h2>
+                <h2 class="form-title">Log in</h2>
                 <div class="form-inner">
                     <div class="single-wrapper">
                         <input type="email" placeholder="Your email" required>
@@ -30,7 +30,7 @@
                         <button type="submit" class="primary__btn">Log In</button>
                     </div>
                 </div>
-                <p class="sign-in-option">Have no account yet? <a href="sign-up.php">Sign Up</a></p>
+                <p class="sign-in-option">Have no account yet?  <a href="https://My.wefithost.com/manage" class="login__btn">Log In</a></p>
             </form>
         </div>
         <div class="copyright-area">

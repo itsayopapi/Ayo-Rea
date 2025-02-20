@@ -1278,7 +1278,7 @@
                             hosting today!</h3>
                     </div>
                     <div class="rts-cta__right">
-                        <a href="sign-up.php" class="rts-btn">Sign Now <i class="fa-solid fa-chevron-right"></i></a>
+                        <a href="https://my.wefithost.com/manage" class="rts-btn">Sign Up Now<i class="fa-solid fa-chevron-right"></i></a>
                     </div>
                     <div class="cta-shape-area">
                         <img src="assets/images/cta/cta__shape.png" alt="">

@@ -1286,9 +1286,31 @@
                         <h4 data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Need help?
                             We're always here for you.</h4>
                     </div>
-                    <div class="cta-btn">
-                        <a href="#" class="contact__us rts-btn rts-btn-secondary" data-sal="slide-left" data-sal-delay="100" data-sal-duration="800">Go to Live chat Page</a>
-                    </div>
+                    <!-- Button -->
+<div class="cta-btn">
+    <a href="#" id="liveChatButton" class="contact__us rts-btn rts-btn-secondary" data-sal="slide-left" data-sal-delay="100" data-sal-duration="800">Go to Live Chat Page</a>
+</div>
+
+<!-- Tawk.to Script -->
+<script type="text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/67a08db8825083258e0f5304/default';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+
+    // Trigger Tawk.to chat when the button is clicked
+    document.getElementById('liveChatButton').addEventListener('click', function(event) {
+        event.preventDefault(); // Prevent the default link behavior
+        if (typeof Tawk_API !== 'undefined') {
+            Tawk_API.toggle(); // Open the chat widget
+        }
+    });
+</script>
                 </div>
             </div>
         </div>
