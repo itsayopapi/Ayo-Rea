@@ -4,7 +4,7 @@
             <div class="rts-header__wrapper">
                 <!-- FOR LOGO -->
                 <div class="rts-header__logo">
-                    <a href="index.php" class="site-logo">
+                    <a href="/home" class="site-logo">
                         <img src="assets/images/logo/logo 3.svg" alt="wefithost">
                     </a>
                 </div>
@@ -25,7 +25,7 @@
                                             <div class="col-lg-6">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="shared-hosting.php">
+                                                        <a href="/shared-hosting">
                                                             <img src="assets/images/mega-menu/22.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Shared Hosting</p>
@@ -34,7 +34,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="wordpress-hosting.php">
+                                                        <a href="/wordpress-hosting">
                                                             <img src="assets/images/mega-menu/23.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>WordPress Hosting</p>
@@ -43,7 +43,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="vps-hosting.php">
+                                                        <a href="/vps-hosting">
                                                             <img src="assets/images/mega-menu/24.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>VPS Hosting</p>
@@ -56,7 +56,7 @@
                                             <div class="col-lg-6">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="reseller-hosting.php">
+                                                        <a href="/reseller-hosting">
                                                             <img src="assets/images/mega-menu/25.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Reseller Hosting</p>
@@ -65,7 +65,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="dedicated-hosting.php">
+                                                        <a href="/dedicated-hosting">
                                                             <img src="assets/images/mega-menu/27.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Dedicated Hosting</p>
@@ -74,7 +74,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="cloud-hosting.php">
+                                                        <a href="/cloud-hosting">
                                                             <img src="assets/images/mega-menu/29.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Cloud Hosting</p>
@@ -98,7 +98,7 @@
                                             <div class="col-lg-6">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="ssl-certificate.php">a
+                                                        <a href="/ssl-certificate">a
                                                             <img src="assets/images/mega-menu/14.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>SSL Certificate</p>
@@ -125,7 +125,7 @@
                                             <div class="col-lg-6">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="pricing.php">a
+                                                        <a href="/pricing">a
                                                             <img src="assets/images/mega-menu/03.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Pricing</p>
@@ -144,24 +144,24 @@
                             <li class="menu-item hostie-has-dropdown">
                                 <a href="#" class="hostie-dropdown-main-element">Domain</a>
                                 <ul class="hostie-submenu list-unstyled menu-pages">
-                                    <li class="nav-item"><a class="nav-link" href="domain-checker.php">Domain Checker</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="domain-transfer.php">Domain Transfer</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="domain-registration.php">Domain Resigtration</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="whois.php">Whois</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/domain-checker">Domain Checker</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/domain-transfer">Domain Transfer</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/domain-registration">Domain Resigtration</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/whois">Whois</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item hostie-has-dropdown">
                                 <a href="#" class="hostie-dropdown-main-element">Technology</a>
                                 <ul class="hostie-submenu list-unstyled menu-pages">
-                                    <li class="nav-item"><a class="nav-link" href="technology.php">Technology</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="data-center.php">Data Centers</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/technology">Technology</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/data-center">Data Centers</a></li>
                                     <!-- <li class="nav-item"><a class="nav-link" href="game-details.php">Game Details</a></li> -->
                                 </ul>
                             </li>
                             <li class="menu-item hostie-has-dropdown">
                                 <a href="#" class="hostie-dropdown-main-element">Help Center</a>
                                 <ul class="hostie-submenu list-unstyled menu-pages">
-                                    <li class="nav-item"><a class="nav-link" href="faq.php">FAQ</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
                                     <li class="nav-item"><a class="nav-link" href="support.php">Support</a></li>
                                     <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                                     <li class="nav-item"><a class="nav-link" href="knowledgebase.php">Knowledgebase</a></li>
