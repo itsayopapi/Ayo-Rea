@@ -162,10 +162,10 @@
                                 <a href="#" class="hostie-dropdown-main-element">Help Center</a>
                                 <ul class="hostie-submenu list-unstyled menu-pages">
                                     <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="support.php">Support</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="knowledgebase.php">Knowledgebase</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="hosting-offer-one.php">Ads Banner</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/support">Support</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/knowledgebase">Knowledgebase</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/hosting-offer-one">Ads Banner</a></li>
                                 </ul>
                             </li>
                         </ul>
