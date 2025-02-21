@@ -44,7 +44,7 @@
             <div class="rts-header__wrapper">
                 <!-- FOR LOGO -->
                 <div class="rts-header__logo">
-                    <a href="index.php" class="site-logo">
+                    <a href="/home" class="site-logo">
                         <img class="logo-white" src="assets/images/logo/wefithost1.svg" alt="wefithost">
                         <img class="logo-dark" src="assets/images/logo/wefithost.svg" alt="wefithost">
                     </a>
@@ -65,7 +65,7 @@
                                             <div class="col-lg-3">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="about.php">
+                                                        <a href="/about">
                                                             <img src="assets/images/mega-menu/01.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>About wefithost</p>
@@ -74,7 +74,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="pricing.php">
+                                                        <a href="/pricing">
                                                             <img src="assets/images/mega-menu/03.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Pricing</p>
@@ -83,7 +83,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="affiliate.php">
+                                                        <a href="/affiliate">
                                                             <img src="assets/images/mega-menu/02.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Affiliate</p>
