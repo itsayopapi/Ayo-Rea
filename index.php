@@ -1,6 +1,6 @@
 <?php
 $request = trim($_GET['url'] ?? '', '/'); // Get the clean URL
-$viewDir = '/NewChanges/views/'; // Path to views
+$viewDir = __DIR__ . '/NewChanges/views/';
 
 
 
@@ -8,15 +8,15 @@ switch ($request) {
     case '':
     case '/':
     case '/home':
-        require __DIR__ . $viewDir . 'home.php';
+        require $viewDir . 'home.php';
         break;
 
     case '/contact':
-        require __DIR__ . $viewDir . 'contact.php';
+        require $viewDir . 'contact.php';
         break;
 
     case '/about':
-        require __DIR__ . $viewDir . 'about.php';
+        require $viewDir . 'about.php';
         break;
 
     case '/affiliate':

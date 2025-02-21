@@ -3,12 +3,12 @@
 
 
 <!-- head area start -->
-<?php include 'layout/partials/head.php'; ?>
+<?php include __DIR__ . '/../layout/partials/head.php'; ?>
 <!-- head area end -->
 
 <body class="home-three">
     <!-- HEADER AREA -->
-    <?php include 'layout/header/header.php'; ?>
+    <?php include __DIR__ . '/../layout/partials/head.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- HERO BANNER ONE -->
