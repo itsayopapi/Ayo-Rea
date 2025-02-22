@@ -1290,17 +1290,17 @@
     <!-- CTA AREA END  -->
 
     <!-- FOOTER AREA START-->
-    <?php include 'layout/footer/footer-one.php'; ?>
+    <?php include __DIR__ . '/../layout/footer/footer-one.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-    <?php include 'layout/partials/sidebar.php'; ?>
+    <?php include __DIR__ . '/../layout/partials/sidebar.php';?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-    <?php include 'layout/partials/preloader.php'; ?>
+    <?php include'layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
