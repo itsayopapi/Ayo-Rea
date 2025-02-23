@@ -44,7 +44,7 @@
                                                     </li>
                                                     <li>
                                                         <a href="/vps-hosting">
-                                                            <img src="/assets/images/mega-menu/24.svg" alt="icon">
+                                                            <img src="NewChanges\assets\images\mega-menu\24.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>VPS Hosting</p>
                                                                 <span>Dedicated resources</span>
@@ -53,7 +53,7 @@
                                                     </li>
                                                     <li>
                                                         <a href="/pricing">
-                                                            <img src="/assets/images/mega-menu/03.svg" alt="icon">
+                                                            <img src="NewChanges/assets/images/mega-menu/03.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Pricing</p>
                                                                 <span>Pricing Plans</span>

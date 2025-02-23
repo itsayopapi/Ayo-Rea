@@ -32,5 +32,5 @@
     <!-- fontawesome css -->
     <link rel="preload stylesheet" href="NewChanges/assets/css/plugins/fontawesome.min.css" as="style">
     <!-- Custom css -->
-    <link rel="preload stylesheet" href="NewChanges/assets/css/style.css" as="style">
+    <link rel="preload stylesheet" href="NewChanges\assets\css\style.css" as="style">
 </head>
