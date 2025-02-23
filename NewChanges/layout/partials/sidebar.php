@@ -25,63 +25,63 @@
                 <li class="has-droupdown">
                     <a href="#" class="main">Overview</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="about.php">About</a></li>
-                        <li><a class="mobile-menu-link" href="team.php">Affiliate</a></li>
-                        <li><a class="mobile-menu-link" href="faq.php">Pricing</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/about.php">About</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/view/steam.php">Affiliate</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/faq.php">Pricing</a></li>
                         <li><a class="mobile-menu-link" href="">Sign Up</a></li>
-                        <li><a class="mobile-menu-link" href="free-audit.php">Whois</a></li>
-                        <li><a class="mobile-menu-link" href="pricing.php">Partner</a></li>
-                        <li><a class="mobile-menu-link" href="blog.php">Blog</a></li>
-                        <li><a class="mobile-menu-link" href="support.php">Support</a></li>
-                        <li><a class="mobile-menu-link" href="pricing.php">Pricing</a></li>
-                        <li><a class="mobile-menu-link" href="pricing-two.php">Pricing Package</a></li>
-                        <li><a class="mobile-menu-link" href="pricing-three.php">Pricing Comparison</a></li>
-                        <li><a class="mobile-menu-link" href="signin.php">Sign In</a></li>
-                        <li><a class="mobile-menu-link" href="business-mail.php">Business Mail</a></li>
-                        <li><a class="mobile-menu-link" href="knowledgebase.php">Knowledgebase</a></li>
-                        <li><a class="mobile-menu-link" href="blog-details.php">Blog Details</a></li>
-                        <li><a class="mobile-menu-link" href="domain-checker.php">Domain Checker</a></li>
-                        <li><a class="mobile-menu-link" href="ssl-certificate.php">SSL Certificates</a></li>
-                        <li><a class="mobile-menu-link" href="data-center.php">Data Centers</a></li>
-                        <li><a class="mobile-menu-link" href="technology.php">Technology</a></li>
-                        <li><a class="mobile-menu-link" href="contact.php">Contact</a></li>
-                        <li><a class="mobile-menu-link" href="domain-transfer.php">Domain Transfer</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/free-audit.php">Whois</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/pricing.php">Partner</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/blog.php">Blog</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/support.php">Support</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/pricing.php">Pricing</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/pricing-two.php">Pricing Package</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/pricing-three.php">Pricing Comparison</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/signin.php">Sign In</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/business-mail.php">Business Mail</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/knowledgebase.php">Knowledgebase</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/blog-details.php">Blog Details</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/domain-checker.php">Domain Checker</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/ssl-certificate.php">SSL Certificates</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/data-center.php">Data Centers</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/technology.php">Technology</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/contact.php">Contact</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/domain-transfer.php">Domain Transfer</a></li>
                     </ul>
                 </li>
                 <li class="has-droupdown">
                     <a href="#" class="main">Hosting</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="shared-hosting.php">Shared Hosting</a></li>
-                        <li><a class="mobile-menu-link" href="wordpress-hosting.php">WordPress Hosting</a></li>
-                        <li><a class="mobile-menu-link" href="vps-hosting.php">VPS Hosting</a></li>
-                        <li><a class="mobile-menu-link" href="reseller-hosting.php">Reseller Hosting</a></li>
-                        <li><a class="mobile-menu-link" href="dedicated-hosting.php">Dedicated Hosting</a></li>
-                        <li><a class="mobile-menu-link" href="cloud-hosting.php">Cloud Hosting</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/shared-hosting.php">Shared Hosting</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/wordpress-hosting.php">WordPress Hosting</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/vps-hosting.php">VPS Hosting</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/reseller-hosting.php">Reseller Hosting</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/dedicated-hosting.php">Dedicated Hosting</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/cloud-hosting.php">Cloud Hosting</a></li>
                     </ul>
                 </li>
                 <li class="has-droupdown">
                     <a href="#" class="main">Domain</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="domain-checker.php">Domain Checker</a></li>
-                        <li><a class="mobile-menu-link" href="domain-transfer.php">Domain Transfer</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/domain-checker.php">Domain Checker</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/domain-transfer.php">Domain Transfer</a></li>
                     </ul>
                 </li>
                 <li class="has-droupdown">
                     <a href="#" class="main">Technology</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="technology.php">Technology</a></li>
-                        <li><a class="mobile-menu-link" href="data-center.php">Data Center</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/technology.php">Technology</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/data-center.php">Data Center</a></li>
                         <li><a class="mobile-menu-link" href="game-details.php">Game Details</a></li>
                     </ul>
                 </li>
                 <li class="has-droupdown">
                     <a href="#" class="main">Help Center</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="knowledgebase.php">Knowledgebase</a></li>
-                        <li><a class="mobile-menu-link" href="hosting-offer-one.php">Ads Banner</a></li>
-                        <li><a class="mobile-menu-link" href="whois.php">Whois</a></li>
-                        <li><a class="mobile-menu-link" href="support.php">Support</a></li>
-                        <li><a class="mobile-menu-link" href="contact.php">Contact</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/knowledgebase.php">Knowledgebase</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/hosting-offer-one.php">Ads Banner</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/whois.php">Whois</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/support.php">Support</a></li>
+                        <li><a class="mobile-menu-link" href="NewChanges/views/contact.php">Contact</a></li>
                     </ul>
                 </li>
             </ul>

@@ -8,7 +8,7 @@
 
 <body class="home-three">
     <!-- HEADER AREA -->
-    <?php include __DIR__ . '/../layout/partials/head.php'; ?>
+    <?php include __DIR__ . '/../layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- HERO BANNER ONE -->
@@ -56,12 +56,12 @@
             </div>
         </div>
         <div class="hero-image-big">
-            <img src="assets/images/banner/banner-hero-3.png" alt="">
+            <img src="NewChanges/assets/images/banner/banner-hero-3.png" alt="">
         </div>
         <div class="banner-shape-area">
-            <img class="one" src="assets/images/banner/banner-shape-3_1.png" alt="">
-            <img class="two" src="assets/images/banner/banner-shape-3_2.png" alt="">
-            <img class="three" src="assets/images/banner/banner-bg-element.svg" alt="">
+            <img class="one" src="NewChanges/assets/images/banner/banner-shape-3_1.png" alt="">
+            <img class="two" src="NewChanges/assets/images/banner/banner-shape-3_2.png" alt="">
+            <img class="three" src="NewChanges/assets/images/banner/banner-bg-element.svg" alt="">
         </div>
     </section>
     <!-- HERO BANNER ONE END -->
@@ -76,10 +76,10 @@
                             <h3>Hosting solutions trusted by the owners of <span>2,800,000</span> domains.</h3>
                             <div class="rts-brand__wrapper--text-review">
                                 <div class="review">
-                                    <div class="star">Excellent <img src="assets/images/brand/review-star.svg" alt=""></div>
+                                    <div class="star">Excellent <img src="NewChanges/assets/images/brand/review-star.svg" alt=""></div>
                                 </div>
                                 <div class="review__company">
-                                    954 reviews on <img src="assets/images/brand/trust-pilot.svg" alt="">
+                                    954 reviews on <img src="NewChanges/assets/images/brand/trust-pilot.svg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -87,32 +87,32 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/01.svg" alt=""></a>
+                                        <a href="#"><img src="NewChanges/assets/images/brand/01.svg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/02.svg" alt=""></a>
+                                        <a href="#"><img src="NewChanges/assets/images/brand/02.svg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/03.svg" alt=""></a>
+                                        <a href="#"><img src="NewChanges/assets/images/brand/03.svg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/04.svg" alt=""></a>
+                                        <a href="#"><img src="NewChanges/assets/images/brand/04.svg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/05.svg" alt=""></a>
+                                        <a href="#"><img src="NewChanges/assets/images/brand/05.svg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/06.svg" alt=""></a>
+                                        <a href="#"><img src="NewChanges/assets/images/brand/06.svg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -147,45 +147,45 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="service-wrapper">
                             <div class="icon">
-                                <img src="assets/images/service/cloud__hosting2.png" alt="">
+                                <img src="NewChanges/assets/images/service/cloud__hosting2.png" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Cloud Hosting</h4>
                                 <p class="desc">Unlock seamless performance with managed cloud hosting. Benefit from blazing-fast load times, effortless scalability, and top-tier security while experts handle the technical heavy lifting. Enjoy peace of mind with our money-back guarantee</p>
-                                <a href="cloud-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="NewChanges/views/cloud-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                             <div class="wrapper-shape">
-                                <img src="assets/images/service/service-bg-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/service/service-bg-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="service-wrapper">
                             <div class="icon">
-                                <img src="assets/images/service/web__hosting2.png" alt="">
+                                <img src="NewChanges/assets/images/service/web__hosting2.png" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Web Hosting</h4>
                                 <p class="desc">Boost your website’s performance with lightning-fast page-load times, powerful business growth tools, and top-notch security to protect user data and build trust. All backed by a money-back guarantee for your peace of mind.</p>
-                                <a href="wordpress-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="NewChanges/views/wordpress-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                             <div class="wrapper-shape">
-                                <img src="assets/images/service/service-bg-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/service/service-bg-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="service-wrapper">
                             <div class="icon">
-                                <img src="assets/images/service/reseller__hosting2.png" alt="">
+                                <img src="NewChanges/assets/images/service/reseller__hosting2.png" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Reseller Hosting</h4>
                                 <p class="desc">Reseller Hosting provides you with reliable performance, easy account management tools, and robust security, allowing you to grow your hosting business with confidence. Enjoy full control, fast support, and a money-back guarantee.</p>
-                                <a href="reseller-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="NewChanges/views/reseller-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                             <div class="wrapper-shape">
-                                <img src="assets/images/service/service-bg-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/service/service-bg-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
@@ -217,7 +217,7 @@
                                 </div>
                             </div>
                             <div class="discount">
-                                <span class="line"><img src="assets/images/pricing/offer__vactor.svg" height="20" width="85" alt=""></span>
+                                <span class="line"><img src="NewChanges/assets/images/pricing/offer__vactor.svg" height="20" width="85" alt=""></span>
                                 <p>20% save</p>
                             </div>
                         </div>
@@ -232,7 +232,7 @@
                                 <div class="card-plan__content">
                                     <div class="card-plan__package">
                                         <div class="icon">
-                                            <img src="assets/images/pricing/basic.svg" height="30" width="30" alt="">
+                                            <img src="NewChanges/assets/images/pricing/basic.svg" height="30" width="30" alt="">
                                         </div>
                                         <h4 class="package__name">Basic</h4>
                                     </div>
@@ -1281,7 +1281,7 @@
                         <a href="https://my.wefithost.com/manage" class="rts-btn">Sign Up Now<i class="fa-solid fa-chevron-right"></i></a>
                     </div>
                     <div class="cta-shape-area">
-                        <img src="assets/images/cta/cta__shape.png" alt="">
+                        <img src="NewChanges/assets/images/cta/cta__shape.png" alt="">
                     </div>
                 </div>
             </div>
@@ -1296,19 +1296,19 @@
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-    <?php include __DIR__ . '/../layout/partials/sidebar.php';?>
+    <?php include  __DIR__ . '/../layout/partials/sidebar.php';?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-    <?php include'layout/partials/preloader.php'; ?>
+    <?php include __DIR__ .  '/../layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-    <?php include 'layout/partials/back-to-top.php'; ?>
+    <?php include __DIR__ . '/../layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-    <?php include 'layout/partials/scripts.php'; ?>
+    <?php include __DIR__ . '/../layout/partials/scripts.php'; ?>
 </body>
 
 </html>

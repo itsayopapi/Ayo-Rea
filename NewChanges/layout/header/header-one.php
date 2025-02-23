@@ -5,17 +5,17 @@
             <div class="row">
                 <div class="rts-ht__wrapper">
                     <div class="rts-ht__email">
-                        <a href="mailto:support@wefithost.com"><img src="assets/images/icon/email.svg" alt="" class="icon">support@wefithost.com</a>
+                        <a href="mailto:support@wefithost.com"><img src="NewChanges/assets/images/icon/email.svg" alt="" class="icon">support@wefithost.com</a>
                     </div>
                     <div class="rts-ht__promo">
-                        <p><img class="icon" src="assets/images/icon/tag--group.svg" alt=""> Hosting Flash Sale: Starting at <strong>$2.59/mo</strong> for a limited time</p>
+                        <p><img class="icon" src="NewChanges/assets/images/icon/tag--group.svg" alt=""> Hosting Flash Sale: Starting at <strong>$2.59/mo</strong> for a limited time</p>
                     </div>
                     <div class="rts-ht__links">
                         <div class="live-chat-has-dropdown">
-                            <a href="#" class="live__chat"><img src="assets/images/icon/forum.svg" alt="" class="icon">Live Chat</a>
+                            <a href="#" class="live__chat"><img src="NewChanges/assets/images/icon/forum.svg" alt="" class="icon">Live Chat</a>
                         </div>
                         <div class="login-btn-has-dropdown">
-                            <a href="#" class="login__link"><img src="assets/images/icon/person.svg" alt="" class="icon">Login</a>
+                            <a href="#" class="login__link"><img src="NewChanges/assets/images/icon/person.svg" alt="" class="icon">Login</a>
                             <div class="login-submenu">
                                 <form action="#">
                                     <div class="form-inner">
@@ -44,9 +44,9 @@
             <div class="rts-header__wrapper">
                 <!-- FOR LOGO -->
                 <div class="rts-header__logo">
-                    <a href="index.php" class="site-logo">
-                        <img class="logo-white" src="assets/images/logo/wefithost1.svg" alt="wefithost">
-                        <img class="logo-dark" src="assets/images/logo/wefithost.svg" alt="wefithost">
+                    <a href="NewChanges/views/home.php" class="site-logo">
+                        <img class="logo-white" src="NewChanges/assets/images/logo/wefithost1.svg" alt="wefithost">
+                        <img class="logo-dark" src="NewChanges/assets/images/logo/wefithost.svg" alt="wefithost">
                     </a>
                 </div>
                 <!-- FOR NAVIGATION MENU -->
@@ -54,7 +54,7 @@
                     <div class="wefithost-menu">
                         <ul class="list-unstyled wefithost-desktop-menu">
                             <li class="menu-item wefithost-has-dropdown">
-                                <a href="index.php" class="wefithost-dropdown-main-element">Home</a>
+                                <a href="NewChanges/views/home.php" class="wefithost-dropdown-main-element">Home</a>
                                 
 
                             <li class="menu-item wefithost-has-dropdown mega-menu big">
@@ -65,7 +65,7 @@
                                             <div class="col-lg-3">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="about.php">
+                                                        <a href="NewChanges/views/about.php">
                                                             <img src="assets/images/mega-menu/01.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>About wefithost</p>
@@ -74,7 +74,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="pricing.php">
+                                                        <a href="NewChanges/views/pricing.php">
                                                             <img src="assets/images/mega-menu/03.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Pricing</p>

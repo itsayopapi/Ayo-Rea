@@ -17,7 +17,7 @@
     <meta name="twitter:description" content="Your Ultimate Solution for Web & Cloud Hosting">
     <meta name="twitter:image" content="https://html.themewant.com/hostie/landing/assets/images/banner/slider-img-01.webp">
     <!-- favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/Favicon logo.svg">
+    <link rel="shortcut icon" type="image/x-icon" href="NewChanges/assets/images/logo/Favicon logo.svg">
 
     <title>WeFitHost- Premium Web Hosting</title>
     <!-- Preconnect to Google Fonts and Google Fonts Static -->
@@ -28,9 +28,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,500;0,600;0,700;1,400;1,800&display=swap" rel="stylesheet">
     <!-- all styles -->
-    <link rel="preload stylesheet" href="assets/css/plugins.min.css" as="style">
+    <link rel="preload stylesheet" href="NewChanges/assets/css/plugins.min.css" as="style">
     <!-- fontawesome css -->
-    <link rel="preload stylesheet" href="assets/css/plugins/fontawesome.min.css" as="style">
+    <link rel="preload stylesheet" href="NewChanges/assets/css/plugins/fontawesome.min.css" as="style">
     <!-- Custom css -->
-    <link rel="preload stylesheet" href="assets/css/style.css" as="style">
+    <link rel="preload stylesheet" href="NewChanges/assets/css/style.css" as="style">
 </head>
