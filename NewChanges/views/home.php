@@ -117,17 +117,17 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rts-brand__slider--single">
-                                        <a href="#"> <img src="assets/images/brand/07.svg" alt=""></a>
+                                        <a href="#"> <img src="NewChanges/assets/images/brand/07.svg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/08.svg" alt=""></a>
+                                        <a href="#"><img src="/NewChanges/assets/images/brand/08.svg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="rts-brand__slider--single">
-                                        <a href="#"><img src="assets/images/brand/01.svg" alt=""></a>
+                                        <a href="#"><img src="/NewChanges/assets/images/brand/01.svg" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -324,7 +324,7 @@
                                 <div class="card-plan__content">
                                     <div class="card-plan__package">
                                         <div class="icon">
-                                            <img src="assets/images/pricing/premium.svg" height="30" width="30" alt="">
+                                            <img src="/NewChanges/assets/images/pricing/premium.svg" height="30" width="30" alt="">
                                         </div>
                                         <h4 class="package__name">Premium</h4>
                                     </div>
@@ -416,7 +416,7 @@
                                 <div class="card-plan__content">
                                     <div class="card-plan__package">
                                         <div class="icon">
-                                            <img src="assets/images/pricing/business.svg" height="30" width="30" alt="">
+                                            <img src="NewChanges/assets/images/pricing/business.svg" height="30" width="30" alt="">
                                         </div>
                                         <h4 class="package__name">Cloud Startup</h4>
                                     </div>
@@ -514,7 +514,7 @@
                                 <div class="card-plan__content">
                                     <div class="card-plan__package">
                                         <div class="icon">
-                                            <img src="assets/images/pricing/basic.svg" height="30" width="30" alt="">
+                                            <img src="NewChanges/assets/images/pricing/basic.svg" height="30" width="30" alt="">
                                         </div>
                                         <h4 class="package__name">Basic</h4>
                                     </div>
@@ -607,7 +607,7 @@
                                 <div class="card-plan__content">
                                     <div class="card-plan__package">
                                         <div class="icon">
-                                            <img src="assets/images/pricing/premium.svg" height="30" width="30" alt="">
+                                            <img src="NewChanges/assets/images/pricing/premium.svg" height="30" width="30" alt="">
                                         </div>
                                         <h4 class="package__name">Premium</h4>
                                     </div>
@@ -699,7 +699,7 @@
                                 <div class="card-plan__content">
                                     <div class="card-plan__package">
                                         <div class="icon">
-                                            <img src="assets/images/pricing/business.svg" height="30" width="30" alt="">
+                                            <img src="NewChanges/assets/images/pricing/business.svg" height="30" width="30" alt="">
                                         </div>
                                         <h4 class="package__name">Cloud Startup</h4>
                                     </div>
@@ -804,7 +804,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">
                         <div class="service-wrapper">
                             <div class="icon">
-                                <img src="assets/images/service/cloud__hosting2.png" alt="">
+                                <img src="NewChanges/assets/images/service/cloud__hosting2.png" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Cloud Hosting</h4>
@@ -812,14 +812,14 @@
                                 <a href="cloud-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                             <div class="wrapper-shape">
-                                <img src="assets/images/service/service-bg-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/service/service-bg-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="500" data-sal-duration="800">
                         <div class="service-wrapper">
                             <div class="icon">
-                                <img src="assets/images/service/web__hosting2.png" alt="">
+                                <img src="NewChanges/assets/images/service/web__hosting2.png" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Web Hosting</h4>
@@ -827,14 +827,14 @@
                                 <a href="wordpress-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                             <div class="wrapper-shape">
-                                <img src="assets/images/service/service-bg-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/service/service-bg-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="600" data-sal-duration="800">
                         <div class="service-wrapper">
                             <div class="icon">
-                                <img src="assets/images/service/dedicated.png" alt="">
+                                <img src="NewChanges/assets/images/service/dedicated.png" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Dedicated Hosting</h4>
@@ -842,14 +842,14 @@
                                 <a href="dedicated-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                             <div class="wrapper-shape">
-                                <img src="assets/images/service/service-bg-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/service/service-bg-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="700" data-sal-duration="800">
                         <div class="service-wrapper">
                             <div class="icon">
-                                <img src="assets/images/service/turbo.png" alt="">
+                                <img src="NewChanges/assets/images/service/turbo.png" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Turbo Hosting</h4>
@@ -857,14 +857,14 @@
                                 <a href="wordpress-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                             <div class="wrapper-shape">
-                                <img src="assets/images/service/service-bg-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/service/service-bg-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="800" data-sal-duration="800">
                         <div class="service-wrapper">
                             <div class="icon">
-                                <img src="assets/images/service/resell.png" alt="">
+                                <img src="NewChanges/assets/images/service/resell.png" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">reseller Hosting</h4>
@@ -872,14 +872,14 @@
                                 <a href="reseller-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                             <div class="wrapper-shape">
-                                <img src="assets/images/service/service-bg-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/service/service-bg-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="900" data-sal-duration="800">
                         <div class="service-wrapper">
                             <div class="icon">
-                                <img src="assets/images/service/share.png" alt="">
+                                <img src="NewChanges/assets/images/service/share.png" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Share Hosting</h4>
@@ -887,7 +887,7 @@
                                 <a href="shared-hosting.php" class="view-more-btn">View More <i class="fa-regular fa-arrow-right"></i></a>
                             </div>
                             <div class="wrapper-shape">
-                                <img src="assets/images/service/service-bg-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/service/service-bg-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
@@ -898,8 +898,8 @@
             </div>
         </div>
         <div class="service-shape-area">
-            <img class="shape-one" src="assets/images/service/service-bg-shape2.svg" alt="">
-            <img class="shape-two" src="assets/images/service/service-bg-shape3.svg" alt="">
+            <img class="shape-one" src="NewChanges/assets/images/service/service-bg-shape2.svg" alt="">
+            <img class="shape-two" src="NewChanges/assets/images/service/service-bg-shape3.svg" alt="">
         </div>
     </div>
     <!-- SERVICE AREA END-->
@@ -921,7 +921,7 @@
                             <div class="feature-wrapper text-center">
                                 <div class="overlay"></div>
                                 <div class="icon">
-                                    <img src="assets/images/feature/feature-01.png" alt="">
+                                    <img src="NewChanges/assets/images/feature/feature-01.png" alt="">
                                 </div>
                                 <div class="content">
                                     <h4 class="title">Uptime Guarantee</h4>
@@ -933,7 +933,7 @@
                             <div class="feature-wrapper text-center">
                                 <div class="overlay"></div>
                                 <div class="icon">
-                                    <img src="assets/images/feature/feature-02.png" alt="">
+                                    <img src="NewChanges/assets/images/feature/feature-02.png" alt="">
                                 </div>
                                 <div class="content">
                                     <h4 class="title">Safe and Secured</h4>
@@ -945,7 +945,7 @@
                             <div class="feature-wrapper text-center">
                                 <div class="overlay"></div>
                                 <div class="icon">
-                                    <img src="assets/images/feature/feature-03.png" alt="">
+                                    <img src="NewChanges/assets/images/feature/feature-03.png" alt="">
                                 </div>
                                 <div class="content">
                                     <h4 class="title">Dedicated Support</h4>
@@ -957,7 +957,7 @@
                             <div class="feature-wrapper text-center">
                                 <div class="overlay"></div>
                                 <div class="icon">
-                                    <img src="assets/images/feature/feature-04.png" alt="">
+                                    <img src="NewChanges/assets/images/feature/feature-04.png" alt="">
                                 </div>
                                 <div class="content">
                                     <h4 class="title">Money-Back Guarantee</h4>
@@ -979,7 +979,7 @@
                 <div class="row g-5">
                     <div class="col-lg-6">
                         <div class="left-side-image">
-                            <img src="assets/images/feature/feature-hero-01.png" alt="">
+                            <img src="NewChanges/assets/images/feature/feature-hero-01.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -1001,7 +1001,7 @@
             </div>
         </div>
         <div class="feature-shape-area">
-            <img class="one" src="assets/images/feature/feature-rounded-shape.svg" alt="">
+            <img class="one" src="NewChanges/assets/images/feature/feature-rounded-shape.svg" alt="">
         </div>
     </div>
     <!-- HOSTING FEATURE AREA END-->
@@ -1036,14 +1036,14 @@
                                         </div>
                                         <div class="author__meta">
                                             <div class="author__meta--image">
-                                                <img src="assets/images/testimonials/author.png" alt="">
+                                                <img src="NewChanges/assets/images/testimonials/author.png" alt="">
                                             </div>
                                             <div class="author__meta--details">
                                                 <a href="#">Rubel Hossen</a>
                                                 <span>Software Developer</span>
                                             </div>
                                         </div>
-                                        <div class="shape"><img src="assets/images/testimonials/testimonial-wrapper-shape.svg" alt=""></div>
+                                        <div class="shape"><img src="NewChanges/assets/images/testimonials/testimonial-wrapper-shape.svg" alt=""></div>
                                     </div>
                                 </div>
                                 <!-- single testimonial end -->
@@ -1060,14 +1060,14 @@
                                         </div>
                                         <div class="author__meta">
                                             <div class="author__meta--image">
-                                                <img src="assets/images/testimonials/author-2.png" alt="">
+                                                <img src="NewChanges/assets/images/testimonials/author-2.png" alt="">
                                             </div>
                                             <div class="author__meta--details">
                                                 <a href="#">Jamie Knop</a>
                                                 <span>Business Owner</span>
                                             </div>
                                         </div>
-                                        <div class="shape"><img src="assets/images/testimonials/testimonial-wrapper-shape.svg" alt=""></div>
+                                        <div class="shape"><img src="NewChanges/assets/images/testimonials/testimonial-wrapper-shape.svg" alt=""></div>
                                     </div>
                                 </div>
                                 <!-- single testimonial end -->
@@ -1084,14 +1084,14 @@
                                         </div>
                                         <div class="author__meta">
                                             <div class="author__meta--image">
-                                                <img src="assets/images/testimonials/author-3.png" alt="">
+                                                <img src="NewChanges/assets/images/testimonials/author-3.png" alt="">
                                             </div>
                                             <div class="author__meta--details">
                                                 <a href="#">Samira Khan</a>
                                                 <span>Digital marketer</span>
                                             </div>
                                         </div>
-                                        <div class="shape"><img src="assets/images/testimonials/testimonial-wrapper-shape.svg" alt=""></div>
+                                        <div class="shape"><img src="NewChanges/assets/images/testimonials/testimonial-wrapper-shape.svg" alt=""></div>
                                     </div>
                                 </div>
                                 <!-- single testimonial end -->
@@ -1108,14 +1108,14 @@
                                         </div>
                                         <div class="author__meta">
                                             <div class="author__meta--image">
-                                                <img src="assets/images/testimonials/author.png" alt="">
+                                                <img src="NewChanges/assets/images/testimonials/author.png" alt="">
                                             </div>
                                             <div class="author__meta--details">
                                                 <a href="#">Jamie Knop</a>
                                                 <span>Business Owner</span>
                                             </div>
                                         </div>
-                                        <div class="shape"><img src="assets/images/testimonials/testimonial-wrapper-shape.svg" alt=""></div>
+                                        <div class="shape"><img src="NewChanges/assets/images/testimonials/testimonial-wrapper-shape.svg" alt=""></div>
                                     </div>
                                 </div>
                                 <!-- single testimonial end -->
@@ -1128,8 +1128,8 @@
             </div>
         </div>
         <div class="testimonial-shape-area">
-            <img class="one" src="assets/images/testimonials/bg-shape-3.svg" alt="">
-            <img class="two" src="assets/images/testimonials/bg-shape-4.svg" alt="">
+            <img class="one" src="NewChanges/assets/images/testimonials/bg-shape-3.svg" alt="">
+            <img class="two" src="NewChanges/assets/images/testimonials/bg-shape-4.svg" alt="">
         </div>
     </section>
     <!-- TESTIMONIAL END -->
@@ -1146,7 +1146,7 @@
                     <div class="col-lg-6 col-md-10 mb-5">
                         <div class="blog-wrapper align-items-center wrapper-z-index">
                             <div class="image">
-                                <img src="assets/images/blog/blog-4.png" alt="">
+                                <img src="NewChanges/assets/images/blog/blog-4.png" alt="">
                             </div>
                             <div class="content">
                                 <p class="blog-meta">
@@ -1161,14 +1161,14 @@
                                 <a href="blog-details.php" class="read-more-btn">Read More <i class="fa-light fa-angle-right"></i></a>
                             </div>
                             <div class="blog-shape">
-                                <img src="assets/images/blog/blog-shape.svg" alt="">
+                                <img src="NewChanges/assets/images/blog/blog-shape.svg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10">
                         <div class="blog-wrapper align-items-center">
                             <div class="image">
-                                <img src="assets/images/blog/blog-5.png" alt="">
+                                <img src="NewChanges/assets/images/blog/blog-5.png" alt="">
                             </div>
                             <div class="content">
                                 <p class="blog-meta">
@@ -1183,7 +1183,7 @@
                                 <a href="blog-details.php" class="read-more-btn">Read More <i class="fa-light fa-angle-right"></i></a>
                             </div>
                             <div class="blog-shape">
-                                <img src="assets/images/blog/blog-shape2.svg" alt="">
+                                <img src="NewChanges/assets/images/blog/blog-shape2.svg" alt="">
                             </div>
                         </div>
                     </div>
@@ -1191,7 +1191,7 @@
             </div>
         </div>
         <div class="blog-shape-area">
-            <img class="one" src="assets/images/blog/line.svg" alt="">
+            <img class="one" src="NewChanges/assets/images/blog/line.svg" alt="">
         </div>
         <!-- FAQ -->
         <div class="rts-faq pt--120">
@@ -1202,7 +1202,7 @@
                             <h3 class="title">Got questions? Well,
                                 we've got answers.</h3>
                             <p>Find answers to frequently asked questions about website hosting services.</p>
-                            <img src="assets/images/faq/faq__animated2.png" alt="faq">
+                            <img src="NewChanges/assets/images/faq/faq__animated2.png" alt="faq">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-10 offset-lg-1">
@@ -1281,7 +1281,7 @@
                         <a href="https://my.wefithost.com/manage" class="rts-btn">Sign Up Now<i class="fa-solid fa-chevron-right"></i></a>
                     </div>
                     <div class="cta-shape-area">
-                        <img src="NewChanges/assets/images/cta/cta__shape.png" alt="">
+                        <img src="/NewChanges/assets/images/cta/cta__shape.png" alt="">
                     </div>
                 </div>
             </div>
@@ -1296,7 +1296,7 @@
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-    <?php include  __DIR__ . '/../layout/partials/sidebar.php';?>
+    <?php include  __DIR__ . '/../layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
