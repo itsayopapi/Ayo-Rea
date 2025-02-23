@@ -2,8 +2,6 @@
 $request = trim($_GET['url'] ?? '', '/'); // Get the clean URL
 $viewDir = __DIR__ . '/NewChanges/views/';
 
-// Debugging line (remove this after testing)
-echo "Request: " . htmlspecialchars($request) . "<br>";
 
 switch ($request) {
     case '':
