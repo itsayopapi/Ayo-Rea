@@ -28,9 +28,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,500;0,600;0,700;1,400;1,800&display=swap" rel="stylesheet">
     <!-- all styles -->
-    <link rel="preload stylesheet" href="NewChanges/assets/css/plugins.min.css" as="style">
+    <link rel="preload stylesheet" href="/NewChanges/assets/css/plugins.min.css" as="style">
     <!-- fontawesome css -->
-    <link rel="preload stylesheet" href="NewChanges/assets/css/plugins/fontawesome.min.css" as="style">
+    <link rel="preload stylesheet" href="/NewChanges/assets/css/plugins/fontawesome.min.css" as="style">
     <!-- Custom css -->
-    <link rel="preload stylesheet" href="NewChanges\assets\css\style.css" as="style">
+    <link rel="preload stylesheet" href="/NewChanges/assets/css/style.css" as="style">
 </head>

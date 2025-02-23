@@ -26,11 +26,11 @@
                         </div>
                     </div>
                     <div class="rts-hosting-banner__image contact">
-                        <img src="assets/images/banner/banner__contact__image.svg" alt="">
-                        <img class="shape one" src="assets/images/banner/banner__contact__image-sm1.svg" alt="">
-                        <img class="shape two top-bottom2" src="assets/images/banner/banner__contact__image-sm2.svg" alt="">
-                        <img class="shape three" src="assets/images/banner/banner__contact__image-sm3.svg" alt="">
-                        <img class="shape four left-right2" src="assets/images/banner/banner__contact__image-sm4.svg" alt="">
+                        <img src="/NewChanges/assets/images/banner/banner__contact__image.svg" alt="">
+                        <img class="shape one" src="/NewChanges/assets/images/banner/banner__contact__image-sm1.svg" alt="">
+                        <img class="shape two top-bottom2" src="/NewChanges/assets/images/banner/banner__contact__image-sm2.svg" alt="">
+                        <img class="shape three" src="/NewChanges/assets/images/banner/banner__contact__image-sm3.svg" alt="">
+                        <img class="shape four left-right2" src="/NewChanges/assets/images/banner/banner__contact__image-sm4.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -119,7 +119,7 @@
                     <div class="contact-form">
                         <div class="contact-form__content" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">
                             <div class="contact-form__content--image">
-                                <img src="assets/images/contact/contact-form.png" width="260" height="188" alt="">
+                                <img src="/NewChanges/assets/images/contact/contact-form.png" width="260" height="188" alt="">
                             </div>
                             <h1 class="contact-form__content--title">
                                 Ask a
@@ -129,7 +129,7 @@
                                 Schedule a call today and one of our experts to help you decide which service is ideal for your business and budget.
                             </p>
                             <div class="contact__shape support-page">
-                                <img src="assets/images/contact/contact__animated__arrow.svg" alt="">
+                                <img src="/NewChanges/assets/images/contact/contact__animated__arrow.svg" alt="">
                             </div>
                         </div>
                     </div>

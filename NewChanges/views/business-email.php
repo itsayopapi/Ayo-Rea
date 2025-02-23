@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- head area start -->
-<?php include '/../layout/partials/head.php' ?>
+<?php include '../layout/partials/head.php' ?>
 <!-- head area end -->
 
 <body class="page-template template-cloud">
 
     <!-- HEADER AREA START-->
-    <?php include 'layout/header/header.php'; ?>
+    <?php include '../layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
@@ -28,7 +28,7 @@
                         </div>
                     </div>
                     <div class="rts-hosting-banner__image mt--50">
-                        <img src="assets/images/banner/banner__cloud__image.svg" alt="">
+                        <img src="/NewChanges/assets/images/banner/banner__cloud__image.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
                     <div class="cloud-feature">
                         <div class="icon">
-                            <img src="assets/images/feature/cloud/1.svg" height="50" width="60" alt="">
+                            <img src="/NewChanges/assets/images/feature/cloud/1.svg" height="50" width="60" alt="">
                         </div>
                         <h4 class="title">Dedicated IP</h4>
                         <p class="description">
@@ -67,7 +67,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
                     <div class="cloud-feature">
                         <div class="icon">
-                            <img src="assets/images/feature/cloud/2.svg" height="50" width="60" alt="">
+                            <img src="/NewChanges/assets/images/feature/cloud/2.svg" height="50" width="60" alt="">
                         </div>
                         <h4 class="title">Guaranteed Resources</h4>
                         <p class="description">
@@ -79,7 +79,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
                     <div class="cloud-feature">
                         <div class="icon">
-                            <img src="assets/images/feature/cloud/ssl.svg" height="50" width="60" alt="">
+                            <img src="/NewChanges/assets/images/feature/cloud/ssl.svg" height="50" width="60" alt="">
                         </div>
                         <h4 class="title">SSL Included</h4>
                         <p class="description">
@@ -91,7 +91,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
                     <div class="cloud-feature">
                         <div class="icon">
-                            <img src="assets/images/feature/cloud/resell.svg" height="50" width="60" alt="">
+                            <img src="/NewChanges/assets/images/feature/cloud/resell.svg" height="50" width="60" alt="">
                         </div>
                         <h4 class="title">White-label Reselling</h4>
                         <p class="description">
@@ -103,7 +103,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
                     <div class="cloud-feature">
                         <div class="icon">
-                            <img src="assets/images/feature/cloud/cloud.svg" height="50" width="60" alt="">
+                            <img src="/NewChanges/assets/images/feature/cloud/cloud.svg" height="50" width="60" alt="">
                         </div>
                         <h4 class="title">Daily Backups</h4>
                         <p class="description">
@@ -115,7 +115,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
                     <div class="cloud-feature">
                         <div class="icon">
-                            <img src="assets/images/feature/cloud/collaboration.svg" height="50" width="60" alt="">
+                            <img src="/NewChanges/assets/images/feature/cloud/collaboration.svg" height="50" width="60" alt="">
                         </div>
                         <h4 class="title">Collaboration Tools</h4>
                         <p class="description">
@@ -150,7 +150,7 @@
                                 </div>
                             </div>
                             <div class="discount">
-                                <span class="line"><img src="assets/images/pricing/offer__vactor.svg" height="20" width="85" alt=""></span>
+                                <span class="line"><img src="/NewChanges/assets/images/pricing/offer__vactor.svg" height="20" width="85" alt=""></span>
                                 <p>20% save</p>
                             </div>
                         </div>
@@ -164,7 +164,7 @@
                             <div class="card-plan">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/basic.svg" height="30" width="30" alt="">
+                                        <img src="/NewChanges/assets/images/pricing/basic.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Basic</h4>
                                 </div>
@@ -258,7 +258,7 @@
                             <div class="card-plan">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/premium.svg" height="30" width="30" alt="">
+                                        <img src="/NewChanges/assets/images/pricing/premium.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Premium</h4>
                                 </div>
@@ -353,7 +353,7 @@
                                 <div class="popular-tag">most popular</div>
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/business.svg" height="30" width="30" alt="">
+                                        <img src="/NewChanges/assets/images/pricing/business.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Business</h4>
                                 </div>
@@ -448,7 +448,7 @@
 
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/cloud.svg" height="30" width="30" alt="">
+                                        <img src="/NewChanges/assets/images/pricing/cloud.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Cloud Startup</h4>
                                 </div>
@@ -548,7 +548,7 @@
                             <div class="card-plan">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/basic.svg" height="30" width="30" alt="">
+                                        <img src="/NewChanges/assets/images/pricing/basic.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Basic</h4>
                                 </div>
@@ -642,7 +642,7 @@
                             <div class="card-plan">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/premium.svg" height="30" width="30" alt="">
+                                        <img src="/NewChanges/assets/images/pricing/premium.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Premium</h4>
                                 </div>
@@ -737,7 +737,7 @@
                                 <div class="popular-tag">most popular</div>
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/business.svg" height="30" width="30" alt="">
+                                        <img src="/NewChanges/assets/images/pricing/business.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Business</h4>
                                 </div>
@@ -831,7 +831,7 @@
                             <div class="card-plan ">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/cloud.svg" height="30" width="30" alt="">
+                                        <img src="/NewChanges/assets/images/pricing/cloud.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Cloud Startup</h4>
                                 </div>
@@ -933,7 +933,7 @@
             <div class="row">
                 <div class="col-lg-5 col-xl-6">
                     <div class="support-feature-image">
-                        <img src="assets/images/feature/support__feature.png" width="645" height="477" alt="">
+                        <img src="/NewChanges/assets/images/feature/support__feature.png" width="645" height="477" alt="">
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-7">
@@ -947,7 +947,7 @@
                         <div class="priority-content" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
                             <div class="single-priority">
                                 <div class="icon">
-                                    <img src="assets/images/feature/cloud/p-1.svg" alt="">
+                                    <img src="/NewChanges/assets/images/feature/cloud/p-1.svg" alt="">
                                 </div>
                                 <div class="content">
                                     <h5>Advanced expertise</h5>
@@ -956,7 +956,7 @@
                             </div>
                             <div class="single-priority">
                                 <div class="icon">
-                                    <img src="assets/images/feature/cloud/speed-meter.svg" alt="">
+                                    <img src="/NewChanges/assets/images/feature/cloud/speed-meter.svg" alt="">
                                 </div>
                                 <div class="content">
                                     <h5>Advanced expertise</h5>
@@ -965,7 +965,7 @@
                             </div>
                             <div class="single-priority">
                                 <div class="icon">
-                                    <img src="assets/images/feature/cloud/p-2.svg" alt="">
+                                    <img src="/NewChanges/assets/images/feature/cloud/p-2.svg" alt="">
                                 </div>
                                 <div class="content">
                                     <h5>Amazingly Fast</h5>
@@ -974,7 +974,7 @@
                             </div>
                             <div class="single-priority">
                                 <div class="icon">
-                                    <img src="assets/images/feature/cloud/rated.svg" alt="">
+                                    <img src="/NewChanges/assets/images/feature/cloud/rated.svg" alt="">
                                 </div>
                                 <div class="content">
                                     <h5>Highly rated</h5>
@@ -1018,7 +1018,7 @@
                                     <p class="feedback-card__single--text">I am using Digital Ocean Plan in Cloud ways and I can confirm it is very good. Also, additional the backup with my hosting is awesome too.</p>
                                     <div class="feedback-card__single--author">
                                         <div class="author">
-                                            <img src="assets/images/author/author__one.png" height="50" width="50" alt="">
+                                            <img src="/NewChanges/assets/images/author/author__one.png" height="50" width="50" alt="">
                                         </div>
                                         <div class="author__meta">
                                             <h6>Zayed Khan</h6>
@@ -1042,7 +1042,7 @@
                                     <p class="feedback-card__single--text">I am using Digital Ocean Plan in Cloud ways and I can confirm it is very good. Also, additional the backup with my hosting is awesome too.</p>
                                     <div class="feedback-card__single--author">
                                         <div class="author">
-                                            <img src="assets/images/author/author__one.png" height="50" width="50" alt="">
+                                            <img src="/NewChanges/assets/images/author/author__one.png" height="50" width="50" alt="">
                                         </div>
                                         <div class="author__meta">
                                             <h6>Zayed Khan</h6>
@@ -1066,7 +1066,7 @@
                                     <p class="feedback-card__single--text">I am using Digital Ocean Plan in Cloud ways and I can confirm it is very good. Also, additional the backup with my hosting is awesome too.</p>
                                     <div class="feedback-card__single--author">
                                         <div class="author">
-                                            <img src="assets/images/author/author__one.png" height="50" width="50" alt="">
+                                            <img src="/NewChanges/assets/images/author/author__one.png" height="50" width="50" alt="">
                                         </div>
                                         <div class="author__meta">
                                             <h6>Zayed Khan</h6>
@@ -1090,7 +1090,7 @@
                                     <p class="feedback-card__single--text">I am using Digital Ocean Plan in Cloud ways and I can confirm it is very good. Also, additional the backup with my hosting is awesome too.</p>
                                     <div class="feedback-card__single--author">
                                         <div class="author">
-                                            <img src="assets/images/author/author__one.png" height="50" width="50" alt="">
+                                            <img src="/NewChanges/assets/images/author/author__one.png" height="50" width="50" alt="">
                                         </div>
                                         <div class="author__meta">
                                             <h6>Zayed Khan</h6>
@@ -1209,25 +1209,25 @@
     <!-- HOSTIE CTA END -->
 
     <!-- FOOTER AREA START-->
-    <?php include 'layout/footer/footer-one.php'; ?>
+    <?php include '../layout/footer/footer-one.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-    <?php include 'layout/partials/sidebar.php'; ?>
+    <?php include '../layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-    <?php include 'layout/partials/preloader.php'; ?>
+    <?php include '../layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-    <?php include 'layout/partials/back-to-top.php'; ?>
+    <?php include '../layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-    <?php include 'layout/partials/scripts.php'; ?>
+    <?php include '../layout/partials/scripts.php'; ?>
 
 </body>
 

@@ -5,7 +5,7 @@
                 <!-- FOR LOGO -->
                 <div class="rts-header__logo">
                     <a href="/home" class="site-logo">
-                        <img src="NewChanges/assets/images/logo/logo 3.svg" alt="wefithost">
+                        <img src="/NewChanges/assets/images/logo/logo 3.svg" alt="wefithost">
                     </a>
                 </div>
                 <!-- FOR NAVIGATION MENU -->
@@ -26,7 +26,7 @@
                                                 <ul class="mega-menu-item">
                                                     <li>
                                                         <a href="/shared-hosting">
-                                                            <img src="NewChanges/assets/images/mega-menu/22.svg" alt="icon">
+                                                            <img src="/NewChanges/assets/images/mega-menu/22.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Shared Hosting</p>
                                                                 <span>Manage Shared Hosting</span>

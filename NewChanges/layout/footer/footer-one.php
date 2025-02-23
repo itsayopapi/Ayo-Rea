@@ -12,7 +12,7 @@
                     <div class="payment__method">
                         <h6>Payment Method</h6>
                         <ul>
-                            <li><img src="/NewChanges/assets/images/payment\visa.svg" alt=""></li>
+                            <li><img src="/NewChanges/assets/images/payment/visa.svg" alt=""></li>
                             <li><img src="/NewChanges/assets/images/payment/master-card.svg" alt=""></li>
                             <li><img src="/NewChanges/assets/images/payment/paypal.svg" alt=""></li>
                             <li><img src="/NewChanges/assets/images/payment/american-express.svg" alt=""></li>
