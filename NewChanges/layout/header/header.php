@@ -4,7 +4,7 @@
             <div class="rts-header__wrapper">
                 <!-- FOR LOGO -->
                 <div class="rts-header__logo">
-                    <a href="NewChanges/views/home.php" class="site-logo">
+                    <a href="/home" class="site-logo">
                         <img src="NewChanges/assets/images/logo/logo 3.svg" alt="wefithost">
                     </a>
                 </div>
@@ -14,7 +14,7 @@
                     <div class="hostie-menu">
                         <ul class="list-unstyled hostie-desktop-menu">
                             <li class="menu-item hostie-has-dropdown">
-                                <a href="NewChanges/views/home.php" class="hostie-dropdown-main-element">Home</a>
+                                <a href="/home" class="hostie-dropdown-main-element">Home</a>
 
 
                             <li class="menu-item hostie-has-dropdown mega-menu">
@@ -25,7 +25,7 @@
                                             <div class="col-lg-6">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="NewChanges/views/shared-hosting.php">
+                                                        <a href="/shared-hosting">
                                                             <img src="NewChanges/assets/images/mega-menu/22.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Shared Hosting</p>
@@ -34,7 +34,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="NewChanges/views/wordpress-hosting.php">
+                                                        <a href="/wordpress-hosting">
                                                             <img src="NewChanges/assets/images/mega-menu/23.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>WordPress Hosting</p>
@@ -43,8 +43,8 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="NewChanges/views/vps-hosting.php">
-                                                            <img src="NewChanges/views/assets/images/mega-menu/24.svg" alt="icon">
+                                                        <a href="/vps-hosting">
+                                                            <img src="/assets/images/mega-menu/24.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>VPS Hosting</p>
                                                                 <span>Dedicated resources</span>
@@ -52,8 +52,8 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="NewChanges/views/pricing.php">
-                                                            <img src="NewChanges/views/assets/images/mega-menu/03.svg" alt="icon">
+                                                        <a href="/pricing">
+                                                            <img src="/assets/images/mega-menu/03.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Pricing</p>
                                                                 <span>Pricing Plans</span>
@@ -66,7 +66,7 @@
                                             <div class="col-lg-6">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="NewChanges/views/reseller-hosting.php">
+                                                        <a href="/reseller-hosting">
                                                             <img src="NewChanges/assets/images/mega-menu/25.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Reseller Hosting</p>
@@ -75,7 +75,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="NewChanges/views/dedicated-hosting.php">
+                                                        <a href="/dedicated-hosting">
                                                             <img src="NewChanges/assets/images/mega-menu/27.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Dedicated Hosting</p>
@@ -84,7 +84,7 @@
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="NewChanges/views/cloud-hosting.php">
+                                                        <a href="/cloud-hosting">
                                                             <img src="NewChanges/assets/images/mega-menu/29.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Cloud Hosting</p>
@@ -95,7 +95,7 @@
 
 
                                                     <li>
-                                                        <a href="NewChanges/views/ssl-certificate.php">
+                                                        <a href="/ssl-certificate">
                                                             <img src="NewChanges/assets/images/mega-menu/14.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>SSL Certificates</p>
@@ -120,7 +120,7 @@
                                             <div class="">
                                                 <ul class="mega-menu-item">
                                                     <li>
-                                                        <a href="NewChanges/views/business-mail.php">
+                                                        <a href="/business-mail">
                                                             <img src="NewChanges/assets/images/mega-menu/10.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Business Mail</p>
@@ -145,28 +145,28 @@
                             <li class="menu-item hostie-has-dropdown">
                                 <a href="#" class="hostie-dropdown-main-element">Domain</a>
                                 <ul class="hostie-submenu list-unstyled menu-pages">
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/domain-checker.php">Domain Checker</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/domain-transfer.php">Domain Transfer</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/domain-registration.php">Domain Resigtration</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/whois.php">Whois</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/domain-checker">Domain Checker</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/domain-transfer">Domain Transfer</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/domain-registration">Domain Resigtration</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/whois">Whois</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item hostie-has-dropdown">
                                 <a href="#" class="hostie-dropdown-main-element">Technology</a>
                                 <ul class="hostie-submenu list-unstyled menu-pages">
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/technology.php">Technology</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/data-center.php">Data Centers</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/game-details.php">Game Details</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/technology">Technology</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/data-center">Data Centers</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/game-details">Game Details</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item hostie-has-dropdown">
                                 <a href="#" class="hostie-dropdown-main-element">Help Center</a>
                                 <ul class="hostie-submenu list-unstyled menu-pages">
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/faq.php">FAQ</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/support.php">Support</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/contact.php">Contact</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/knowledgebase.php">Knowledgebase</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="NewChanges/views/hosting-offer-one.php">Ads Banner</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/support">Support</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/knowledgebase">Knowledgebase</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/hosting-offer-one">Ads Banner</a></li>
                                 </ul>
                             </li>
                         </ul>

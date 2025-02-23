@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
- <!-- head area start -->
-    <?php include 'layout/partials/head.php'?>
- <!-- head area end -->
+<!-- head area start -->
+<?php include '/../layout/partials/head.php' ?>
+<!-- head area end -->
+
 <body>
     <div class="rts-error-section">
         <div class="section-inner">

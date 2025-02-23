@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
- <!-- head area start -->
-    <?php include 'layout/partials/head.php'?>
- <!-- head area end -->
+<!-- head area start -->
+<?php include '/../layout/partials/head.php' ?>
+<!-- head area end -->
+
 <body class="page-template template-pricing">
 
     <!-- HEADER AREA START-->
-        <?php include 'layout/header/header.php';?>
+    <?php include 'layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
@@ -23,7 +24,7 @@
                             </h1>
                             <p class="description">
                                 Get ready for the web hosting event of the year! <br>
-                            Our Black Friday hosting offer
+                                Our Black Friday hosting offer
                             </p>
                             <a href="#" class="start-tour">Get Started </a>
                         </div>
@@ -94,7 +95,7 @@
                                     <ul class="card-plan__feature--list">
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> 1 Website</span>
-                                            <span class="tolltip" data-bs-toggle="tooltip"  data-bs-placement="bottom" title="Explore, discover, and learn on our innovative and informative website."><i class="fa-light fa-circle-question"></i></span>
+                                            <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Explore, discover, and learn on our innovative and informative website."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> Standard Performance</span>
@@ -115,7 +116,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-xmark"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -210,7 +211,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-xmark"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -306,7 +307,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -402,7 +403,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -503,7 +504,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-xmark"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -598,7 +599,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-xmark"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -694,7 +695,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -789,7 +790,7 @@
                                         <li class="card-plan__feature--list-item">
                                             <span class="text"><i class="fa-regular fa-check"></i> 100 GB SSD Storage</span>
                                             <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
+                                                title="Elevate your online presence with Hostie, offering unlimited bandwidth for your domain, ensuring optimal performance and seamless data flow."><i class="fa-light fa-circle-question"></i></span>
                                         </li>
 
 
@@ -1011,27 +1012,28 @@
     </div>
     <!-- HOSTIE CTA END -->
 
-  
+
     <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-one.php';?>
+    <?php include 'layout/footer/footer-one.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-        <?php include 'layout/partials/sidebar.php';?>
+    <?php include 'layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-        <?php include 'layout/partials/preloader.php';?>
+    <?php include 'layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-        <?php include 'layout/partials/back-to-top.php';?>
+    <?php include 'layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-        <?php include 'layout/partials/scripts.php';?>
+    <?php include 'layout/partials/scripts.php'; ?>
 
 </body>
+
 </html>

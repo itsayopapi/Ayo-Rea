@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
- <!-- head area start -->
-    <?php include 'layout/partials/head.php'?>
- <!-- head area end -->
+<!-- head area start -->
+<?php include '../layout/partials/head.php' ?>
+<!-- head area end -->
+
 <body class="shared-page page-template">
-    
+
     <!-- HEADER AREA START-->
-        <?php include 'layout/header/header.php';?>
+    <?php include '../layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
@@ -1287,30 +1288,32 @@
                             We're always here for you.</h4>
                     </div>
                     <!-- Button -->
-<div class="cta-btn">
-    <a href="#" id="liveChatButton" class="contact__us rts-btn rts-btn-secondary" data-sal="slide-left" data-sal-delay="100" data-sal-duration="800">Go to Live Chat Page</a>
-</div>
+                    <div class="cta-btn">
+                        <a href="#" id="liveChatButton" class="contact__us rts-btn rts-btn-secondary" data-sal="slide-left" data-sal-delay="100" data-sal-duration="800">Go to Live Chat Page</a>
+                    </div>
 
-<!-- Tawk.to Script -->
-<script type="text/javascript">
-    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-    (function() {
-        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-        s1.async = true;
-        s1.src = 'https://embed.tawk.to/67a08db8825083258e0f5304/default';
-        s1.charset = 'UTF-8';
-        s1.setAttribute('crossorigin', '*');
-        s0.parentNode.insertBefore(s1, s0);
-    })();
+                    <!-- Tawk.to Script -->
+                    <script type="text/javascript">
+                        var Tawk_API = Tawk_API || {},
+                            Tawk_LoadStart = new Date();
+                        (function() {
+                            var s1 = document.createElement("script"),
+                                s0 = document.getElementsByTagName("script")[0];
+                            s1.async = true;
+                            s1.src = 'https://embed.tawk.to/67a08db8825083258e0f5304/default';
+                            s1.charset = 'UTF-8';
+                            s1.setAttribute('crossorigin', '*');
+                            s0.parentNode.insertBefore(s1, s0);
+                        })();
 
-    // Trigger Tawk.to chat when the button is clicked
-    document.getElementById('liveChatButton').addEventListener('click', function(event) {
-        event.preventDefault(); // Prevent the default link behavior
-        if (typeof Tawk_API !== 'undefined') {
-            Tawk_API.toggle(); // Open the chat widget
-        }
-    });
-</script>
+                        // Trigger Tawk.to chat when the button is clicked
+                        document.getElementById('liveChatButton').addEventListener('click', function(event) {
+                            event.preventDefault(); // Prevent the default link behavior
+                            if (typeof Tawk_API !== 'undefined') {
+                                Tawk_API.toggle(); // Open the chat widget
+                            }
+                        });
+                    </script>
                 </div>
             </div>
         </div>
@@ -1318,24 +1321,25 @@
     <!-- HOSTIE CTA END -->
 
     <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-one.php';?>
+    <?php include '../layout/footer/footer-one.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-        <?php include 'layout/partials/sidebar.php';?>
+    <?php include '../layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-        <?php include 'layout/partials/preloader.php';?>
+    <?php include '../layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-        <?php include 'layout/partials/back-to-top.php';?>
+    <?php include '../layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-        <?php include 'layout/partials/scripts.php';?>
+    <?php include '../layout/partials/scripts.php'; ?>
 </body>
+
 </html>

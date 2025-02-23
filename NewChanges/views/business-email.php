@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- head area start -->
-    <?php include 'layout/partials/head.php'?>
+<?php include '/../layout/partials/head.php' ?>
 <!-- head area end -->
+
 <body class="page-template template-cloud">
 
     <!-- HEADER AREA START-->
-        <?php include 'layout/header/header.php';?>
+    <?php include 'layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
@@ -1208,25 +1209,26 @@
     <!-- HOSTIE CTA END -->
 
     <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-one.php';?>
+    <?php include 'layout/footer/footer-one.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-        <?php include 'layout/partials/sidebar.php';?>
+    <?php include 'layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-        <?php include 'layout/partials/preloader.php';?>
+    <?php include 'layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-        <?php include 'layout/partials/back-to-top.php';?>
+    <?php include 'layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-        <?php include 'layout/partials/scripts.php';?>
+    <?php include 'layout/partials/scripts.php'; ?>
 
 </body>
+
 </html>
