@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- head area start -->
-<?php include '../layout/partials/head.php' ?>
+<?php include __DIR__ . '/../layout/partials/head.php'; ?>
 <!-- head area end -->
 
 <body class="shared-page page-template">
 
     <!-- HEADER AREA START-->
-    <?php include '../layout/header/header.php'; ?>
+    <?php include __DIR__ . '/../layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
@@ -26,7 +26,7 @@
                             <div class="hosting-feature" data-sal="slide-down" data-sal-delay="500" data-sal-duration="800">
                                 <div class="hosting-feature__single">
                                     <div class="icon-image">
-                                        <img src="assets/images/banner/shared/diamond.png" alt="">
+                                        <img src="NewChanges/assets/images/banner/shared/diamond.png" alt="">
                                     </div>
                                     <p class="feature-text">
                                         Look like a Pri- Fast,
@@ -35,7 +35,7 @@
                                 </div>
                                 <div class="hosting-feature__single">
                                     <div class="icon-image">
-                                        <img src="assets/images/banner/shared/wordpress.png" alt="">
+                                        <img src="NewChanges/assets/images/banner/shared/wordpress.png" alt="">
                                     </div>
                                     <p class="feature-text">
                                         Look like a Pri- Fast,
@@ -45,9 +45,9 @@
                             </div>
                         </div>
                         <div class="rts-hosting-banner__image">
-                            <img src="assets/images/banner/shared/shared__hosting.svg" alt="">
-                            <img class="shape-image one right-left" src="assets/images/banner/shared/shared__hosting-sm1.svg" alt="">
-                            <img class="shape-image two pulsing" src="assets/images/banner/shared/shared__hosting-sm2.svg" alt="">
+                            <img src="NewChanges/assets/images/banner/shared/shared__hosting.svg" alt="">
+                            <img class="shape-image one right-left" src="NewChanges/assets/images/banner/shared/shared__hosting-sm1.svg" alt="">
+                            <img class="shape-image two pulsing" src="NewChanges/assets/images/banner/shared/shared__hosting-sm2.svg" alt="">
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
                                 </div>
                             </div>
                             <div class="discount">
-                                <span class="line"><img src="assets/images/pricing/offer__vactor.svg" height="20" width="85" alt=""></span>
+                                <span class="line"><img src="NewChanges/assets/images/pricing/offer__vactor.svg" height="20" width="85" alt=""></span>
                                 <p>20% save</p>
                             </div>
                         </div>
@@ -91,7 +91,7 @@
                             <div class="card-plan">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/basic.svg" height="30" width="30" alt="">
+                                        <img src="NewChanges/assets/images/pricing/basic.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Basic</h4>
                                 </div>
@@ -185,7 +185,7 @@
                             <div class="card-plan">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/premium.svg" height="30" width="30" alt="">
+                                        <img src="NewChanges/assets/images/pricing/premium.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Premium</h4>
                                 </div>
@@ -280,7 +280,7 @@
                                 <div class="popular-tag">most popular</div>
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/business.svg" height="30" width="30" alt="">
+                                        <img src="NewChanges/assets/images/pricing/business.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Business</h4>
                                 </div>
@@ -375,7 +375,7 @@
 
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/cloud.svg" height="30" width="30" alt="">
+                                        <img src="NewChanges/assets/images/pricing/cloud.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Cloud Startup</h4>
                                 </div>
@@ -475,7 +475,7 @@
                             <div class="card-plan">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/basic.svg" height="30" width="30" alt="">
+                                        <img src="NewChanges/assets/images/pricing/basic.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Basic</h4>
                                 </div>
@@ -569,7 +569,7 @@
                             <div class="card-plan">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/premium.svg" height="30" width="30" alt="">
+                                        <img src="NewChanges/assets/images/pricing/premium.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Premium</h4>
                                 </div>
@@ -664,7 +664,7 @@
                                 <div class="popular-tag">most popular</div>
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/business.svg" height="30" width="30" alt="">
+                                        <img src="NewChanges/assets/images/pricing/business.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Business</h4>
                                 </div>
@@ -758,7 +758,7 @@
                             <div class="card-plan ">
                                 <div class="card-plan__package">
                                     <div class="icon">
-                                        <img src="assets/images/pricing/cloud.svg" height="30" width="30" alt="">
+                                        <img src="NewChanges/assets/images/pricing/cloud.svg" height="30" width="30" alt="">
                                     </div>
                                     <h4 class="package__name">Cloud Startup</h4>
                                 </div>
@@ -851,7 +851,7 @@
                 </div>
             </div>
             <div class="view-plan-btn">
-                <a href="pricing.php" class="btn long-btn">view all plan</a>
+                <a href="my.wefithost.com/order-hosting" class="btn long-btn">view all plan</a>
             </div>
         </div>
     </div>
@@ -1214,10 +1214,10 @@
                         <h3 data-sal="slide-down" data-sal-delay="100" data-sal-duration="800"><b>Our Suppliers</b></h3>
                         <div class="rts-brand__wrapper--text-review" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
                             <div class="review">
-                                <div class="star">Excellent <img src="assets/images/brand/review-star.svg" alt=""></div>
+                                <div class="star">Excellent <img src="NewChanges/assets/images/brand/review-star.svg" alt=""></div>
                             </div>
                             <div class="review__company">
-                                954 reviews on <img src="assets/images/brand/trust-pilot.svg" alt="">
+                                954 reviews on <img src="NewChanges/assets/images/brand/trust-pilot.svg" alt="">
                             </div>
                         </div>
                     </div>
@@ -1225,47 +1225,47 @@
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="rts-brand__slider--single">
-                                    <a href="#"><img src="assets/images/brand/01.svg" alt=""></a>
+                                    <a href="#"><img src="NewChanges/assets/images/brand/01.svg" alt=""></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="rts-brand__slider--single">
-                                    <a href="#"><img src="assets/images/brand/02.svg" alt=""></a>
+                                    <a href="#"><img src="NewChanges/assets/images/brand/02.svg" alt=""></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="rts-brand__slider--single">
-                                    <a href="#"><img src="assets/images/brand/03.svg" alt=""></a>
+                                    <a href="#"><img src="NewChanges/assets/images/brand/03.svg" alt=""></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="rts-brand__slider--single">
-                                    <a href="#"><img src="assets/images/brand/04.svg" alt=""></a>
+                                    <a href="#"><img src="NewChanges/assets/images/brand/04.svg" alt=""></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="rts-brand__slider--single">
-                                    <a href="#"><img src="assets/images/brand/05.svg" alt=""></a>
+                                    <a href="#"><img src="NewChanges/assets/images/brand/05.svg" alt=""></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="rts-brand__slider--single">
-                                    <a href="#"><img src="assets/images/brand/06.svg" alt=""></a>
+                                    <a href="#"><img src="NewChanges/assets/images/brand/06.svg" alt=""></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="rts-brand__slider--single">
-                                    <a href="#"> <img src="assets/images/brand/07.svg" alt=""></a>
+                                    <a href="#"> <img src="NewChanges/assets/images/brand/07.svg" alt=""></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="rts-brand__slider--single">
-                                    <a href="#"><img src="assets/images/brand/08.svg" alt=""></a>
+                                    <a href="#"><img src="NewChanges/assets/images/brand/08.svg" alt=""></a>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="rts-brand__slider--single">
-                                    <a href="#"><img src="assets/images/brand/01.svg" alt=""></a>
+                                    <a href="#"><img src="NewChanges/assets/images/brand/01.svg" alt=""></a>
                                 </div>
                             </div>
                         </div>
@@ -1321,25 +1321,25 @@
     <!-- HOSTIE CTA END -->
 
     <!-- FOOTER AREA START-->
-    <?php include '../layout/footer/footer-one.php'; ?>
+    <?php include __DIR__ . '/../layout/footer/footer-one.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-    <?php include '../layout/partials/sidebar.php'; ?>
+    <?php include __DIR__ . '/../layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-    <?php include '../layout/partials/preloader.php'; ?>
+    <?php include __DIR__ . '/../layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-    <?php include '../layout/partials/back-to-top.php'; ?>
+    <?php include __DIR__ . '/../layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-    <?php include '../layout/partials/scripts.php'; ?>
+    <?php include __DIR__ . '/../layout/partials/scripts.php'; ?>
 </body>
 
 </html>
