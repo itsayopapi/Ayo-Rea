@@ -1,143 +1,68 @@
 <?php
-$request = trim($_GET['url'] ?? '', '/'); // Get the clean URL
+// Get the requested URL path
+$requestUri = $_SERVER['REQUEST_URI'];
+$request = trim(parse_url($requestUri, PHP_URL_PATH), '/');
+
+// Debugging: Print the requested URL
+echo "Requested URL: " . $request . "<br>";
+
 $viewDir = __DIR__ . '/NewChanges/views/';
 
+// Debugging: Print the resolved file path
+echo "Resolved File Path: " . $viewDir . $request . ".php<br>";
 
-switch ($request) {
-    case '':
-    case 'home':
-        require $viewDir . 'home.php';
-        break;
+// Define a mapping of URLs to PHP files
+$routes = [
+    '' => 'home.php',
+    'home' => 'home.php',
+    'contact' => 'contact.php',
+    'about' => 'about.php',
+    'shared-hosting' => 'shared-hosting.php',
+    'affiliate' => 'affiliate.php',
+    'black-friday' => 'black-friday.php',
+    'blog' => 'blog.php',
+    'blog-details' => 'blog-details.php',
+    'blog-grid-2' => 'blog-grid-2.php',
+    'blog-list' => 'blog-list.php',
+    'business-email' => 'business-email.php',
+    'business-mail' => 'business-mail.php',
+    'cloud-hosting' => 'cloud-hosting.php',
+    'data-center' => 'data-center.php',
+    'dedicated-hosting' => 'dedicated-hosting.php',
+    'domain-checker' => 'domain-checker.php',
+    'domain-registration' => 'domain-registration.php',
+    'domain-transfer' => 'domain-transfer.php',
+    'faq' => 'faq.php',
+    'hosting-offer-one' => 'hosting-offer-one.php',
+    'knowledgebase' => 'knowledgebase.php',
+    'mailer' => 'mailer.php',
+    'maintenance' => 'maintenance.php',
+    'partner' => 'partner.php',
+    'payment-method' => 'payment-method.php',
+    'pricing' => 'pricing.php',
+    'reseller-hosting' => 'reseller-hosting.php',
+    'ssl-certificate' => 'ssl-certificate.php',
+    'support' => 'support.php',
+    'technology' => 'technology.php',
+    'vps-hosting' => 'vps-hosting.php',
+    'whois' => 'whois.php',
+    'wordpress-hosting' => 'wordpress-hosting.php',
+];
 
-    case 'contact':
-        require $viewDir . 'contact.php';
-        break;
-
-    case 'about':
-        require $viewDir . 'about.php';
-        break;
-
-    case 'affiliate':
-        require $viewDir . 'affiliate.php';
-        break;
-
-    case 'black-friday':
-        require $viewDir . 'black-friday.php';
-        break;
-
-    case 'blog':
-        require $viewDir . 'blog.php';
-        break;
-
-    case 'blog-details':
-        require $viewDir . 'blog-details.php';
-        break;
-
-    case 'blog-grid-2':
-        require $viewDir . 'blog-grid-2.php';
-        break;
-
-    case 'blog-list':
-        require $viewDir . 'blog-list.php';
-        break;
-
-    case 'business-email':
-        require $viewDir . 'business-email.php';
-        break;
-
-    case 'business-mail':
-        require $viewDir . 'business-mail.php';
-        break;
-
-    case 'cloud-hosting':
-        require $viewDir . 'cloud-hosting.php';
-        break;
-
-    case 'data-center':
-        require $viewDir . 'data-center.php';
-        break;
-
-    case 'dedicated-hosting':
-        require $viewDir . 'dedicated-hosting.php';
-        break;
-
-    case 'domain-checker':
-        require $viewDir . 'domain-checker.php';
-        break;
-
-    case 'domain-registration':
-        require $viewDir . 'domain-registration.php';
-        break;
-
-    case 'domain-transfer':
-        require $viewDir . 'domain-transfer.php';
-        break;
-
-    case 'faq':
-        require $viewDir . 'faq.php';
-        break;
-
-    case 'hosting-offer-one':
-        require $viewDir . 'hosting-offer-one.php';
-        break;
-
-    case 'knowledgebase':
-        require $viewDir . 'knowledgebase.php';
-        break;
-
-    case 'mailer':
-        require $viewDir . 'mailer.php';
-        break;
-
-    case 'maintenance':
-        require $viewDir . 'maintenance.php';
-        break;
-
-    case 'partner':
-        require $viewDir . 'partner.php';
-        break;
-
-    case 'payment-method':
-        require $viewDir . 'payment-method.php';
-        break;
-
-    case 'pricing':
-        require $viewDir . 'pricing.php';
-        break;
-
-    case 'reseller-hosting':
-        require $viewDir . 'reseller-hosting.php';
-        break;
-
-    case 'shared-hosting':
-        require $viewDir . 'shared-hosting.php';
-        break;
-
-    case 'ssl-certificate':
-        require $viewDir . 'ssl-certificate.php';
-        break;
-
-    case 'support':
-        require $viewDir . 'support.php';
-        break;
-
-    case 'technology':
-        require $viewDir . 'technology.php';
-        break;
-
-    case 'vps-hosting':
-        require $viewDir . 'vps-hosting.php';
-        break;
-
-    case 'whois':
-        require $viewDir . 'whois.php';
-        break;
-
-    case 'wordpress-hosting':
-        require $viewDir . 'wordpress-hosting.php';
-        break;
-
-    default:
+// Check if the requested route exists
+if (array_key_exists($request, $routes)) {
+    $filePath = $viewDir . $routes[$request];
+    if (file_exists($filePath)) {
+        require $filePath;
+    } else {
+        // Debugging: Print an error if the file doesn't exist
+        echo "File not found: " . $filePath . "<br>";
         http_response_code(404);
         require $viewDir . '404.php';
+    }
+} else {
+    // Debugging: Print an error if the route doesn't exist
+    echo "Route not found: " . $request . "<br>";
+    http_response_code(404);
+    require $viewDir . '404.php';
 }
