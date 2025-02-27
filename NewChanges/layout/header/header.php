@@ -35,7 +35,7 @@
                                                     </li>
                                                     <li>
                                                         <a href="/wordpress-hosting">
-                                                            <img src="NewChanges/assets/images/mega-menu/23.svg" alt="icon">
+                                                            <img src="/NewChanges/assets/images/mega-menu/23.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>WordPress Hosting</p>
                                                                 <span>WordPress Hosting speed</span>
@@ -44,7 +44,7 @@
                                                     </li>
                                                     <li>
                                                         <a href="/vps-hosting">
-                                                            <img src="NewChanges\assets\images\mega-menu\24.svg" alt="icon">
+                                                            <img src="/NewChanges/assets/images/mega-menu/24.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>VPS Hosting</p>
                                                                 <span>Dedicated resources</span>
@@ -53,7 +53,7 @@
                                                     </li>
                                                     <li>
                                                         <a href="/pricing">
-                                                            <img src="NewChanges/assets/images/mega-menu/03.svg" alt="icon">
+                                                            <img src="/NewChanges/assets/images/mega-menu/03.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Pricing</p>
                                                                 <span>Pricing Plans</span>
@@ -67,7 +67,7 @@
                                                 <ul class="mega-menu-item">
                                                     <li>
                                                         <a href="/reseller-hosting">
-                                                            <img src="NewChanges/assets/images/mega-menu/25.svg" alt="icon">
+                                                            <img src="/NewChanges/assets/images/mega-menu/25.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Reseller Hosting</p>
                                                                 <span>Earn additional revenue</span>
@@ -76,7 +76,7 @@
                                                     </li>
                                                     <li>
                                                         <a href="/dedicated-hosting">
-                                                            <img src="NewChanges/assets/images/mega-menu/27.svg" alt="icon">
+                                                            <img src="/NewChanges/assets/images/mega-menu/27.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Dedicated Hosting</p>
                                                                 <span>Hosting that gives you tools</span>
@@ -85,7 +85,7 @@
                                                     </li>
                                                     <li>
                                                         <a href="/cloud-hosting">
-                                                            <img src="NewChanges/assets/images/mega-menu/29.svg" alt="icon">
+                                                            <img src="/NewChanges/assets/images/mega-menu/29.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Cloud Hosting</p>
                                                                 <span>Manage Cloud Hosting</span>
@@ -96,7 +96,7 @@
 
                                                     <li>
                                                         <a href="/ssl-certificate">
-                                                            <img src="NewChanges/assets/images/mega-menu/14.svg" alt="icon">
+                                                            <img src="/NewChanges/assets/images/mega-menu/14.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>SSL Certificates</p>
                                                                 <span>Our security</span>
@@ -121,7 +121,7 @@
                                                 <ul class="mega-menu-item">
                                                     <li>
                                                         <a href="/business-mail">
-                                                            <img src="NewChanges/assets/images/mega-menu/10.svg" alt="icon">
+                                                            <img src="/NewChanges/assets/images/mega-menu/10.svg" alt="icon">
                                                             <div class="info">
                                                                 <p>Business Mail</p>
                                                                 <span>reliable, simple email @ your domain</span>
