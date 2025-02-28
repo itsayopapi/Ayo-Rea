@@ -2,24 +2,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="description" content="Your Ultimate Solution for Web Hosting & WHMCS">
-    <meta name="keywords" content="Hosting, Domain, Transfer, Buy Domain, WHMCS">
+    <meta name="description" content="Your Ultimate Solution for Web & Cloud Hosting">
+    <meta name="keywords" content="Hosting, Domain, Transfer, Buy Domain, ">
     <link rel="canonical" href="https://html.themewant.com/hostie">
     <meta name="robots" content="index, follow">
     <!-- for open graph social media -->
-    <meta property="og:title" content="Hostie - Web Hosting & WHMCS Template">
-    <meta property="og:description" content="Your Ultimate Solution for Web Hosting & WHMCS">
+    <meta property="og:title" content="Wefithost - Premium Web Hosting">
+    <meta property="og:description" content="Your Ultimate Solution for Web & Cloud Hosting">
     <meta property="og:image" content="https://www.example.com/image.jpg">
     <meta property="og:url" content="https://html.themewant.com/hostie/">
     <!-- for twitter sharing -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Hostie - Web Hosting & WHMCS Template">
-    <meta name="twitter:description" content="Your Ultimate Solution for Web Hosting & WHMCS">
+    <meta name="twitter:title" content="Wefithost - Premium Web Hosting">
+    <meta name="twitter:description" content="Your Ultimate Solution for Web & Cloud Hosting">
     <meta name="twitter:image" content="https://html.themewant.com/hostie/landing/assets/images/banner/slider-img-01.webp">
     <!-- favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/Favicon logo.svg">
 
-    <title>Hostie - Web Hosting & WHMCS Template</title>
+    <title>WeFitHost- Premium Web Hosting</title>
     <!-- Preconnect to Google Fonts and Google Fonts Static -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

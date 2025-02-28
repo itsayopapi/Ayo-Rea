@@ -5,7 +5,7 @@
             <div class="col-lg-3 col-md-5 col-sm-6 rts-footer__widget--column">
                 <div class="rts-footer__widget footer__widget w-280">
                     <a href="index.php" aria-label="main page link" class="footer__logo">
-                        <img src="assets/images/logo/footer__one__logo.svg" alt="">
+                        <img src="assets/images/logo/logo 3.svg" alt="">
                     </a>
                     <p class="brand-desc">We’re on a mission make life easier for web developers & small businesses.</p>
                     <div class="separator site-default-border"></div>
@@ -28,12 +28,12 @@
                     <h5 class="widget-title">Company</h5>
                     <div class="rts-footer__widget--menu ">
                         <ul>
-                            <li><a href="about.php">About Us</a></li>
-                            <li><a href="blog.php">News Feed</a></li>
-                            <li><a href="contact.php">Contact</a></li>
-                            <li><a href="affiliate.php">Affiliate Program</a></li>
-                            <li><a href="technology.php">Our Technology</a></li>
-                            <li><a href="knowledgebase.php">Knowledgebase</a></li>
+                            <li><a href="/about">About Us</a></li>
+                            <li><a href="/blog">News Feed</a></li>
+                            <li><a href="/contact">Contact</a></li>
+                            <li><a href="/affiliate">Affiliate Program</a></li>
+                            <li><a href="/technology">Our Technology</a></li>
+                            <li><a href="/knowledgebase">Knowledgebase</a></li>
                         </ul>
                     </div>
                 </div>
@@ -45,12 +45,12 @@
                     <h5 class="widget-title">Feature</h5>
                     <div class="rts-footer__widget--menu ">
                         <ul>
-                            <li><a href="domain-checker.php">Domain Checker</a></li>
-                            <li><a href="domain-transfer.php">Domain Transfer</a></li>
-                            <li><a href="domain-registration.php">Domain Registration</a></li>
-                            <li><a href="data-centers.php">Data Centers</a></li>
-                            <li><a href="whois.php">Whois</a></li>
-                            <li><a href="support.php">Support</a></li>
+                            <li><a href="/domain-checker">Domain Checker</a></li>
+                            <li><a href="/domain-transfer">Domain Transfer</a></li>
+                            <li><a href="/domain-registration">Domain Registration</a></li>
+                            <li><a href="/data-centers">Data Centers</a></li>
+                            <li><a href="/whois">Whois</a></li>
+                            <li><a href="/support">Support</a></li>
                         </ul>
                     </div>
                 </div>
@@ -62,12 +62,12 @@
                     <h5 class="widget-title">Hosting</h5>
                     <div class="rts-footer__widget--menu">
                         <ul>
-                            <li><a href="shared-hosting.php">Shared Hosting</a></li>
-                            <li><a href="wordpress-hosting.php">Wordpress Hosting</a></li>
-                            <li><a href="vps-hosting.php">VPS Hosting</a></li>
-                            <li><a href="reseller-hosting.php">Reseller Hosting</a></li>
-                            <li><a href="dedicated-hosting.php">Dedicated Hosting</a></li>
-                            <li><a href="cloud-hosting.php">Cloud Hosting</a></li>
+                            <li><a href="/shared-hosting">Shared Hosting</a></li>
+                            <li><a href="/wordpress-hosting">Wordpress Hosting</a></li>
+                            <li><a href="vps-hosting">VPS Hosting</a></li>
+                            <li><a href="/reseller-hosting">Reseller Hosting</a></li>
+                            <li><a href="/dedicated-hosting">Dedicated Hosting</a></li>
+                            <li><a href="/cloud-hosting">Cloud Hosting</a></li>
                         </ul>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
     <div class="container">
         <div class="row">
             <div class="rts-footer__copyright text-center">
-                <p>&copy; Copyright 2024. All Rights Reserved.</p>
+                <p>&copy; Copyright 2025. All Rights Reserved.</p>
             </div>
         </div>
     </div>

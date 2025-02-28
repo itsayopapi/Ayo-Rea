@@ -7,12 +7,12 @@
                     <a href="#" class="footer__logo">
                         <img src="assets/images/logo/footer__two__logo.svg" alt="">
                     </a>
-                    <p class="brand-desc address">1811 Silverside Rd, Wilmington <br> DE 19810, USA</p>
+                    <p class="brand-desc address">21-22 Enfield  Road,  Bromley <br> BR1 1TL, London</p>
                     <div class="separator site-default-border"></div>
 
                     <div class="contact-method">
                         <a href="tel:8060008899"><span><i class="fa-regular fa-phone"></i></span>+806 (000) 88 99</a>
-                        <a href="mailto:info@hostie.com"><span><i class="fa-light fa-envelope"></i></span>info@hostie.com</a>
+                        <a href="mailto:info@wefithost.com"><span><i class="fa-light fa-envelope"></i></span>info@wefithost.com</a>
                     </div>
                 </div>
             </div>
@@ -23,11 +23,11 @@
                     <h5 class="widget-title">Company</h5>
                     <div class="rts-footer__widget--menu ">
                         <ul>
-                            <li><a href="about.php">About Us</a></li>
-                            <li><a href="blog.php">News Feed</a></li>
-                            <li><a href="contact.php">Contact</a></li>
-                            <li><a href="affiliate.php">Affiliate Program</a></li>
-                            <li><a href="technology.php">Our Technology</a></li>
+                            <li><a href="/about">About Us</a></li>
+                            <li><a href="/blog">News Feed</a></li>
+                            <li><a href="/contact">Contact</a></li>
+                            <li><a href="/affiliate">Affiliate Program</a></li>
+                            <li><a href="/technology">Our Technology</a></li>
                         </ul>
                     </div>
                 </div>
@@ -39,11 +39,11 @@
                     <h5 class="widget-title">Hosting</h5>
                     <div class="rts-footer__widget--menu">
                         <ul>
-                            <li><a href="domain-checker.php">Domain Checker</a></li>
-                            <li><a href="domain-transfer.php">Domain Transfer</a></li>
-                            <li><a href="domain-registration.php">Domain Registration</a></li>
-                            <li><a href="data-centers.php">Data Centers</a></li>
-                            <li><a href="whois.php">Whois</a></li>
+                            <li><a href="/domain-checker">Domain Checker</a></li>
+                            <li><a href="/domain-transfer">Domain Transfer</a></li>
+                            <li><a href="/domain-registration">Domain Registration</a></li>
+                            <li><a href="/data-centers">Data Centers</a></li>
+                            <li><a href="/whois">Whois</a></li>
                         </ul>
                     </div>
                 </div>
