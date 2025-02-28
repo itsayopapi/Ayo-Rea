@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
- <!-- head area start -->
-    <?php include 'layout/partials/head.php'?>
- <!-- head area end -->
+<!-- head area start -->
+<?php include 'layout/partials/head.php' ?>
+<!-- head area end -->
+
 <body class="page-template template-resell">
     <!-- HEADER AREA START-->
-        <?php include 'layout/header/header.php';?>
+    <?php include 'layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- HERO BANNER ONE -->
@@ -361,13 +362,13 @@
                             <div class="accordion-item active">
                                 <div class="accordion-header" id="first">
                                     <h4 class="accordion-button collapse show" data-bs-toggle="collapse" data-bs-target="#item__one" aria-expanded="false" aria-controls="item__one">
-                                    How do I transfer my domain to WeFitHost?
+                                        How do I transfer my domain to WeFitHost?
                                     </h4>
                                 </div>
                                 <div id="item__one" class="accordion-collapse collapse collapse show" aria-labelledby="first" data-bs-parent="#rts-accordion">
                                     <div class="accordion-body">
-                                        To transfer your domain, unlock it with your current registrar, 
-                                        obtain the authorization code (EPP code), and enter it during checkout on WeFitHost. 
+                                        To transfer your domain, unlock it with your current registrar,
+                                        obtain the authorization code (EPP code), and enter it during checkout on WeFitHost.
                                         Then, confirm the transfer via email.
                                     </div>
                                 </div>
@@ -375,101 +376,102 @@
                             <div class="accordion-item">
                                 <div class="accordion-header" id="two">
                                     <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__two" aria-expanded="false" aria-controls="item__two">
-                                     How long does a domain transfer take?
+                                        How long does a domain transfer take?
                                     </h4>
                                 </div>
                                 <div id="item__two" class="accordion-collapse collapse" aria-labelledby="two" data-bs-parent="#rts-accordion">
                                     <div class="accordion-body">
                                         Most domain transfers take 5–7 days to complete, depending on your current registrar. Ensuring your domain is unlocked and email verification is completed speeds up the process.
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="three">
-                                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__three" aria-expanded="false" aria-controls="item__three">
-                                     Will my website experience downtime during the transfer?
-                                    </h4>
-                                </div>
-                                <div id="item__three" class="accordion-collapse collapse" aria-labelledby="three" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        No, your website will remain active if your nameservers stay the same. We recommend keeping your current hosting until the transfer is completed.
                                     </div>
                                 </div>
-                            </div>
+                                <div class="accordion-item">
+                                    <div class="accordion-header" id="three">
+                                        <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__three" aria-expanded="false" aria-controls="item__three">
+                                            Will my website experience downtime during the transfer?
+                                        </h4>
+                                    </div>
+                                    <div id="item__three" class="accordion-collapse collapse" aria-labelledby="three" data-bs-parent="#rts-accordion">
+                                        <div class="accordion-body">
+                                            No, your website will remain active if your nameservers stay the same. We recommend keeping your current hosting until the transfer is completed.
+                                        </div>
+                                    </div>
+                                </div>
 
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="four">
-                                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__four" aria-expanded="false" aria-controls="item__four">
-                                     Do I need to renew my domain before transferring?
-                                    </h4>
-                                </div>
-                                <div id="item__four" class="accordion-collapse collapse" aria-labelledby="four" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        If your domain is close to expiration, renewing it first is a good idea to avoid disruptions. A successful transfer usually extends your registration by one year.
+                                <div class="accordion-item">
+                                    <div class="accordion-header" id="four">
+                                        <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__four" aria-expanded="false" aria-controls="item__four">
+                                            Do I need to renew my domain before transferring?
+                                        </h4>
+                                    </div>
+                                    <div id="item__four" class="accordion-collapse collapse" aria-labelledby="four" data-bs-parent="#rts-accordion">
+                                        <div class="accordion-body">
+                                            If your domain is close to expiration, renewing it first is a good idea to avoid disruptions. A successful transfer usually extends your registration by one year.
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="five">
-                                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__five" aria-expanded="false" aria-controls="item__four">
-                                     How much does it cost to transfer a domain?
-                                    </h4>
-                                </div>
-                                <div id="item__five" class="accordion-collapse collapse" aria-labelledby="five" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        The transfer cost depends on the domain extension. Most transfers include a one-year renewal. Check WeFitHost’s pricing for specific details.
+                                <div class="accordion-item">
+                                    <div class="accordion-header" id="five">
+                                        <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__five" aria-expanded="false" aria-controls="item__four">
+                                            How much does it cost to transfer a domain?
+                                        </h4>
+                                    </div>
+                                    <div id="item__five" class="accordion-collapse collapse" aria-labelledby="five" data-bs-parent="#rts-accordion">
+                                        <div class="accordion-body">
+                                            The transfer cost depends on the domain extension. Most transfers include a one-year renewal. Check WeFitHost’s pricing for specific details.
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- SHARED HOSTING FAQ END -->
+
+        <!-- WeFitHost CTA -->
+        <div class="rts-cta-two shared-page-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="rts-cta-two__wrapper">
+                        <div class="cta__shape"></div>
+                        <div class="cta-content">
+                            <span data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Need help choosing a plan?</span>
+                            <h4 data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Need help?
+                                We're always here for you.</h4>
+                        </div>
+                        <div class="cta-btn">
+                            <a href="#" class="contact__us primary__btn btn__two secondary__bg secondary__color">Go to Live chat Page</a>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
-    </div>
-    <!-- SHARED HOSTING FAQ END -->
+        <!-- WeFitHost CTA END -->
 
-    <!-- WeFitHost CTA -->
-    <div class="rts-cta-two shared-page-bg">
-        <div class="container">
-            <div class="row">
-                <div class="rts-cta-two__wrapper">
-                    <div class="cta__shape"></div>
-                    <div class="cta-content">
-                        <span data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Need help choosing a plan?</span>
-                        <h4 data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Need help?
-                            We're always here for you.</h4>
-                    </div>
-                    <div class="cta-btn">
-                        <a href="#" class="contact__us primary__btn btn__two secondary__bg secondary__color">Go to Live chat Page</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- WeFitHost CTA END -->
-   
-   <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-one.php';?>
-    <!-- FOOTER AREA END -->
+        <!-- FOOTER AREA START-->
+        <?php include 'layout/footer/footer-three.php'; ?>
+        <!-- FOOTER AREA END -->
 
-    <div id="anywhere-home" class=""></div>
+        <div id="anywhere-home" class=""></div>
 
-    <!-- Sidebar area start -->
-        <?php include 'layout/partials/sidebar.php';?>
-    <!-- Sidebar area end -->
+        <!-- Sidebar area start -->
+        <?php include 'layout/partials/sidebar.php'; ?>
+        <!-- Sidebar area end -->
 
-    <!-- THEME PRELOADER START -->
-        <?php include 'layout/partials/preloader.php';?>
-    <!-- THEME PRELOADER END -->
+        <!-- THEME PRELOADER START -->
+        <?php include 'layout/partials/preloader.php'; ?>
+        <!-- THEME PRELOADER END -->
 
-    <!-- BACK TO TOP AREA START -->
-        <?php include 'layout/partials/back-to-top.php';?>
-    <!-- BACK TO TOP AREA EDN -->
+        <!-- BACK TO TOP AREA START -->
+        <?php include 'layout/partials/back-to-top.php'; ?>
+        <!-- BACK TO TOP AREA EDN -->
 
-    <!-- Scripts -->
-        <?php include 'layout/partials/scripts.php';?>
+        <!-- Scripts -->
+        <?php include 'layout/partials/scripts.php'; ?>
 
 </body>
+
 </html>

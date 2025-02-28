@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
- <!-- head area start -->
-    <?php include 'layout/partials/head.php'?>
- <!-- head area end -->
+<!-- head area start -->
+<?php include 'layout/partials/head.php' ?>
+<!-- head area end -->
 
 <body class="page-template template-resell">
 
     <!-- HEADER AREA START-->
-        <?php include 'layout/header/header.php';?>
+    <?php include 'layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- HERO BANNER ONE -->
@@ -63,7 +63,7 @@
                     <h2 class="section-title" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">
                         Your Domain Name is the Gateway to Your Business</h2>
                     <p class="desc" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Buy a domain name –
-                    the same low price, year on year.</p>
+                        the same low price, year on year.</p>
                 </div>
             </div>
             <div class="section-inner">
@@ -519,7 +519,7 @@
                                 Show you mean business
                             </h5>
                             <p class="card-feature__single--description">
-                                A website is essential for building trust with potential customers. 
+                                A website is essential for building trust with potential customers.
                                 While social media is important, a professional website adds credibility and shows you're serious about your business.
                             </p>
                         </div>
@@ -559,7 +559,7 @@
                                 Claim your space online
                             </h5>
                             <p class="card-feature__single--description">
-                                In today's world, an online presence is a must. 
+                                In today's world, an online presence is a must.
                                 Secure your domain now to ensure your business taps into the growing ecommerce market.
                             </p>
                         </div>
@@ -593,7 +593,7 @@
                                 Create a professional email
                             </h5>
                             <p class="card-feature__single--description">
-                                Using your domain for email, like you@yourbusiness.co.uk, 
+                                Using your domain for email, like you@yourbusiness.co.uk,
                                 adds a professional touch that looks more trustworthy than a generic email from Yahoo or Gmail.
                             </p>
                         </div>
@@ -713,26 +713,27 @@
     </div>
     <!-- HOSTIE CTA END -->
 
-   <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-one.php';?>
+    <!-- FOOTER AREA START-->
+    <?php include 'layout/footer/footer-three.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-        <?php include 'layout/partials/sidebar.php';?>
+    <?php include 'layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-        <?php include 'layout/partials/preloader.php';?>
+    <?php include 'layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-        <?php include 'layout/partials/back-to-top.php';?>
+    <?php include 'layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-        <?php include 'layout/partials/scripts.php';?>
+    <?php include 'layout/partials/scripts.php'; ?>
 
 </body>
+
 </html>

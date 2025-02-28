@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
- <!-- head area start -->
-    <?php include 'layout/partials/head.php'?>
- <!-- head area end -->
+<!-- head area start -->
+<?php include 'layout/partials/head.php' ?>
+<!-- head area end -->
 
 <body class="page-template template-resell">
 
     <!-- HEADER AREA START-->
-        <?php include 'layout/header/header.php';?>
+    <?php include 'layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- HERO BANNER ONE -->
@@ -151,7 +151,7 @@
                             <div class="accordion-item">
                                 <div class="accordion-header" id="three">
                                     <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__three" aria-expanded="false" aria-controls="item__three">
-                                         Can I transfer my domain to WeFitHost?
+                                        Can I transfer my domain to WeFitHost?
                                     </h4>
                                 </div>
                                 <div id="item__three" class="accordion-collapse collapse" aria-labelledby="three" data-bs-parent="#rts-accordion">
@@ -176,7 +176,7 @@
                             <div class="accordion-item">
                                 <div class="accordion-header" id="five">
                                     <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__five" aria-expanded="false" aria-controls="item__four">
-                                       Do I get free domain privacy protection?
+                                        Do I get free domain privacy protection?
                                     </h4>
                                 </div>
                                 <div id="item__five" class="accordion-collapse collapse" aria-labelledby="five" data-bs-parent="#rts-accordion">
@@ -216,25 +216,26 @@
     <!-- WeFitHost CTA END -->
 
     <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-one.php';?>
+    <?php include 'layout/footer/footer-three.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-        <?php include 'layout/partials/sidebar.php';?>
+    <?php include 'layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-        <?php include 'layout/partials/preloader.php';?>
+    <?php include 'layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-        <?php include 'layout/partials/back-to-top.php';?>
+    <?php include 'layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-        <?php include 'layout/partials/scripts.php';?>
+    <?php include 'layout/partials/scripts.php'; ?>
 
 </body>
+
 </html>

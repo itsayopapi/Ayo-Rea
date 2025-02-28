@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
- <!-- head area start -->
-    <?php include 'layout/partials/head.php'?>
- <!-- head area end -->
+<!-- head area start -->
+<?php include 'layout/partials/head.php' ?>
+<!-- head area end -->
 
 <body class="page-template template-pricing">
 
     <!-- HEADER AREA START-->
-        <?php include 'layout/header/header.php';?>
+    <?php include 'layout/header/header.php'; ?>
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
@@ -204,7 +204,7 @@
                                 <img src="assets/images/flag-03.svg" alt="">
                             </li>
                             <li class="four">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-WeFitHost"  title="USA"></span>
+                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-WeFitHost" title="USA"></span>
                                 <img src="assets/images/flag-04.svg" alt="">
                             </li>
                             <li class="five">
@@ -212,7 +212,7 @@
                                 <img src="assets/images/flag-05.svg" alt="">
                             </li>
                             <li class="six">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"  data-bs-custom-class="color-WeFitHost" title="India"></span>
+                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-WeFitHost" title="India"></span>
                                 <img src="assets/images/flag-06.svg" alt="">
                             </li>
                             <li class="seven">
@@ -224,7 +224,7 @@
                                 <img src="assets/images/flag-08.svg" alt="">
                             </li>
                             <li class="nine">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-WeFitHost"  title="South Africa"></span>
+                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-WeFitHost" title="South Africa"></span>
                                 <img src="assets/images/flag-09.svg" alt="">
                             </li>
                             <li class="ten">
@@ -260,25 +260,26 @@
     <!-- WeFitHost CTA END -->
 
     <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-one.php';?>
+    <?php include 'layout/footer/footer-three.php'; ?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
 
     <!-- Sidebar area start -->
-        <?php include 'layout/partials/sidebar.php';?>
+    <?php include 'layout/partials/sidebar.php'; ?>
     <!-- Sidebar area end -->
 
     <!-- THEME PRELOADER START -->
-        <?php include 'layout/partials/preloader.php';?>
+    <?php include 'layout/partials/preloader.php'; ?>
     <!-- THEME PRELOADER END -->
 
     <!-- BACK TO TOP AREA START -->
-        <?php include 'layout/partials/back-to-top.php';?>
+    <?php include 'layout/partials/back-to-top.php'; ?>
     <!-- BACK TO TOP AREA EDN -->
 
     <!-- Scripts -->
-        <?php include 'layout/partials/scripts.php';?>
+    <?php include 'layout/partials/scripts.php'; ?>
 
 </body>
+
 </html>

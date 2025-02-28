@@ -77,20 +77,23 @@
                         <span class="icon"><i class="fa-regular fa-envelope-open"></i></span>
                         <button type="submit"><i class="fa-regular fa-arrow-right"></i></button>
                     </form>
+                    <!-- Social Media Links
+                     
                     <div class="social__media">
                         <h5>social media</h5>
-                        <div class="social__media--list">
+                     <div class="social__media--list">
                             <a href="#" class="media"><i class="fa-brands fa-facebook-f"></i></a>
                             <a href="#" class="media"><i class="fa-brands fa-instagram"></i></a>
                             <a href="#" class="media"><i class="fa-brands fa-linkedin"></i></a>
                             <a href="#" class="media"><i class="fa-brands fa-x-twitter"></i></a>
                             <a href="#" class="media"><i class="fa-brands fa-behance"></i></a>
                         </div>
-                    </div>
+ Social Media End -->
                 </div>
             </div>
-            <!-- widget end -->
         </div>
+        <!-- widget end -->
+    </div>
     </div>
 </footer>
 <div class="rts-footer__copyright-two style-four">
