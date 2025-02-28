@@ -24,11 +24,11 @@
                     <div class="rts-footer__widget--menu ">
                         <ul>
                             <li><a href="/about">About Us</a></li>
-                            <li><a href="/blog">News Feed</a></li>
+                            <li><a href="/blog">Blog</a></li>
                             <li><a href="/contact">Contact</a></li>
-                            <li><a href="/affiliate">Affiliate Program</a></li>
                             <li><a href="/technology">Our Technology</a></li>
                             <li><a href="/knowledgebase">Knowledgebase</a></li>
+                            <li><a href="">Terms and Conditions</a></li>
                         </ul>
                     </div>
                 </div>
@@ -44,7 +44,6 @@
                             <li><a href="/domain-transfer">Domain Transfer</a></li>
                             <li><a href="/domain-registration">Domain Registration</a></li>
                             <li><a href="/data-centers">Data Centers</a></li>
-                            <li><a href="/whois">Whois</a></li>
                             <li><a href="/support">Support</a></li>
                         </ul>
                     </div>
