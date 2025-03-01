@@ -3,8 +3,13 @@
 $requestUri = $_SERVER['REQUEST_URI'];
 $request = trim(parse_url($requestUri, PHP_URL_PATH), '/');
 
-$viewDir = __DIR__ . '/views/';
+// Debugging: Print the requested URL
+echo "Requested URL: " . $request . "<br>";
 
+$viewDir = __DIR__ . '/NewChanges/views/';
+
+// Debugging: Print the resolved file path
+echo "Resolved File Path: " . $viewDir . $request . ".php<br>";
 
 // Define a mapping of URLs to PHP files
 $routes = [
